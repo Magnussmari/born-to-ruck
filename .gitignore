@@ -13,6 +13,15 @@ _freeze/
 *.fdb_latexmk
 *.synctex.gz
 
+# Secrets
+.env
+.env.*
+
+# Python
+*.py
+__pycache__/
+*.pyc
+
 # OS files
 .DS_Store
 Thumbs.db

@@ -67,7 +67,7 @@ Magnus Smari Smarason | 23 February 2026 | Akureyri, Iceland
 
 This book is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-**Made with:** [scite.ai](https://scite.ai), [Claude Code](https://claude.ai) with [PAI](https://github.com/danielmiessler/PAI), Gemini 3.0 Flash -- 3.1 Pro Preview, [Perplexity](https://perplexity.ai), and a custom AI research harness.
+**Made with:** [scite.ai](https://scite.ai), [Claude Code](https://claude.ai) with [PAI](https://github.com/danielmiessler/PAI), Gemini 3.0 Flash -- 3.1 Pro, [Perplexity](https://perplexity.ai), and a custom AI research harness.
 
 *Eleven AI-assisted literature reviews. Fifty-one primary references. Eighty-four thousand words. Written, compiled, and rendered in a single session while the author was out rucking.*
 :::
