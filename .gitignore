@@ -1,0 +1,36 @@
+# Quarto build output
+_book/
+_freeze/
+.quarto/
+
+# TeX intermediates
+*.tex
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Secrets
+.env
+.env.*
+
+# Python
+*.py
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+/.quarto/

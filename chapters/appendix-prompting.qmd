@@ -1,0 +1,173 @@
+# Appendix B: Prompting Your Protocol {.unnumbered}
+
+*The book gave you the science. The protocol gave you the framework. The prompt gives you the personalisation. The trail gives you the rest.*
+
+---
+
+## This Book Was Built With AI
+
+The research in these pages was assembled, stress-tested, and synthesised with AI assistance. Every chapter went through multiple rounds of literature review, logical audit, and evidence triangulation with large language models. That is not a disclosure to apologise for. It is an invitation.
+
+If AI could help build this book, it can help you use it.
+
+The Akureyri Protocol in Appendix A provides the general framework: the load percentages, the nasal gate, the progression timelines. But your body is not general. Your age, your bone density, your hormonal status, your training history, your injury history, and your nutritional baseline are specific to you. A consumer AI model --- Claude, Gemini, ChatGPT --- can take the principles in this book and tailor them to your situation, provided you give it the right information.
+
+This is not magic. The AI does not have access to your blood work, your gait, or the feeling in your knees after a hill. What it does have is the ability to reason across a large body of exercise science and apply protocol logic to the numbers you provide. That is genuinely useful. Use it.
+
+This appendix gives you the prompts. Copy them. Modify them. Use them.
+
+---
+
+## The Baseline Prompt
+
+This is your starting point. Paste it into any capable AI model and fill in your details. The more specific you are, the more specific the output will be.
+
+```
+I am a [age]-year-old [male/female], [weight] kg, [height] cm.
+My current activity level: [sedentary / lightly active / moderately active / very active].
+My most recent DXA scan T-score (if available):
+  - Femoral neck: [X.X]
+  - Lumbar spine: [X.X]
+My relevant medical history: [list any conditions, injuries, medications, surgeries].
+My current daily caloric intake: approximately [X] kilocalories.
+My current protein intake: approximately [X] grams per day.
+My rucking experience: [none / beginner (under 3 months) / intermediate (3-12 months) / experienced].
+
+Using the Akureyri Protocol from "Born to Ruck" by Magnus Smári Smarason, which specifies:
+- Starting load: 10% of body weight
+- Target load: 20-27% of body weight over 6-12 months
+- Progression: +2 kg per 2-week block (male) / +2 kg per 3-week block (female)
+  — only if nasal breathing is maintained throughout
+- Frequency: 3-4 sessions per week, 30-60 minutes
+- Intensity: Zone 2 only, governed by nasal breathing gate
+- Energy Availability: minimum 45 kcal/kg fat-free mass per day
+- Protein: 1.6-2.2 g/kg bodyweight per day
+
+Please generate:
+1. A 12-week load progression plan with weekly target weights
+2. My recommended daily caloric and protein targets based on my body weight and activity level
+3. Any red flags or protocol modifications based on my specific profile
+4. A suggested weekly schedule (which days, which movements)
+5. One thing I should watch most closely in weeks 1-4
+```
+
+Read the output carefully. Then push back. Ask it to explain any recommendation you do not understand. Ask it what would change if your DXA score were different. Ask it what the conservative version looks like. AI models respond well to follow-up questions --- treat the first output as a draft, not a prescription.
+
+---
+
+## The Perimenopause and Menopause Prompt
+
+Women aged 45--65 face a specific convergence of risks and opportunities that the generic baseline prompt does not fully capture. The osteogenic window is narrowing. Hormonal status affects load tolerance, recovery speed, and energy availability calculations. This prompt addresses that directly.
+
+```
+I am a [age]-year-old woman in [perimenopause / early post-menopause / post-menopause (5+ years)].
+My body weight: [X] kg. Height: [X] cm.
+My oestrogen status: [on HRT / not on HRT / recently stopped HRT / unknown].
+My most recent DXA T-score (if available):
+  - Femoral neck: [X.X]
+  - Lumbar spine: [X.X]
+My most recent relevant blood work: [e.g., Vitamin D: X nmol/L, ferritin: X µg/L, or "not available"].
+My pelvic floor history: [no issues / previous prolapse / stress incontinence / not assessed].
+My primary goals: [bone density / fall prevention / lean mass preservation / cardiovascular health / all of the above].
+
+Using Chapter 7 (Her Bones, Her Rules) and the Akureyri Protocol from "Born to Ruck" by
+Magnus Smári Smarason, which notes:
+- Female load progression is more conservative: +2 kg per 3-week block
+- PFJ stress is higher in females than males at equivalent loads (Willy et al. 2025)
+- 120 spm cadence attenuates peak vertical ground reaction force
+- The osteogenic threshold requires approximately 25-30% bodyweight load at 1.5 m/s
+- Energy availability below 45 kcal/kg FFM/day triggers bone resorption (RED-S risk)
+- HRT use affects recovery speed and bone response timeline
+
+Please generate:
+1. A conservative 12-week starting programme that accounts for my hormonal status
+2. My energy availability calculation and daily caloric floor
+3. Cadence and load recommendations specific to my PFJ risk profile
+4. Nutritional priorities (calcium, vitamin D, protein targets) for my life phase
+5. Signs that I should reduce load or pace in any given week
+6. Whether HRT status changes any of these recommendations, and how
+```
+
+If your physician has recommended against weight-bearing exercise due to bone density, share this prompt output with them. Use it as a discussion document, not as a substitute for their advice.
+
+---
+
+## The Return-to-Load Prompt
+
+For readers coming back from injury, illness, surgery, or a long sedentary period. The standard protocol assumes a baseline of ambulatory fitness. If you are returning from a period of significant deconditioning, the entry point and progression rate need to be adjusted downward.
+
+```
+I am a [age]-year-old [male/female], [weight] kg.
+I have been largely sedentary for the past [X months / X years] due to:
+[describe reason: injury, illness, post-surgery, life circumstances, etc.]
+
+My current status:
+- I can walk [X] minutes continuously without discomfort
+- My most significant limitation is: [joint pain / fatigue / cardiovascular deconditioning /
+  post-surgical restriction / other]
+- Clearance from a physician or physiotherapist: [yes / no / not yet sought]
+
+Using the Akureyri Protocol from "Born to Ruck" by Magnus Smári Smarason, and assuming
+I need a sub-protocol entry point below the standard 10% bodyweight starting load:
+
+Please generate:
+1. A modified 6-week re-entry phase before I begin the standard 12-week protocol
+2. What bodyweight load (if any) I should start with in weeks 1-2
+3. How to know when I am ready to progress to the standard protocol entry point
+4. Any movements from the five-movement system I should defer until later
+5. One metric to monitor weekly to confirm I am recovering, not deteriorating
+```
+
+The re-entry phase matters more than most people expect. Coming back too fast extends the timeline. Coming back slowly shortens it.
+
+---
+
+## Updating the AI as You Progress
+
+The prompt is not a one-time transaction. Feed the AI your actual results every four weeks. This is where the personalisation compounds.
+
+A simple update template:
+
+```
+Update from week [X] of the Akureyri Protocol.
+
+Starting stats: [weight, initial load, energy availability target]
+Current stats: [current load, sessions per week, average session duration]
+
+What is going well: [e.g., nasal breathing feels natural at 16 kg, no joint pain]
+What is not going well: [e.g., right knee soreness after long sessions, fatigue lasting
+  more than 48 hours after Thursday sessions]
+Nutrition compliance: [e.g., hitting protein targets, caloric intake approximately X kcal/day]
+
+Based on this update, please review my progression plan and flag anything that should change.
+```
+
+An AI model that knows your week-4 reality can give you substantially more useful guidance than one working only from your week-0 baseline. The model does not remember previous conversations across sessions in most consumer tools --- paste your baseline data again when you return.
+
+---
+
+## Important Caveats
+
+These prompts generate starting points, not medical advice. The distinction matters.
+
+**AI is not a doctor.** If you have a diagnosed condition, an active injury, osteoporosis (T-score below --2.5), or cardiovascular disease, share the AI output with your physician or physiotherapist before acting on it. The prompts are designed to produce conservative, evidence-grounded recommendations --- but conservative is not the same as medically appropriate for every individual.
+
+**The AI does not know your body. You know your body.** If the output feels wrong --- if the load seems too aggressive, the schedule too demanding, or a recommendation does not match your lived experience --- it probably is wrong for you specifically. Override it. Your body's feedback is a better signal than any algorithm.
+
+**Garbage in, garbage out.** An AI given vague inputs produces vague outputs. "I am moderately active" is less useful than "I walk 20 minutes most days and do light gardening." Specificity is the difference between generic advice and genuinely useful personalisation.
+
+**Update as you progress.** Exercise science is not static, and neither are you. The person rucking at week 12 is physiologically different from the person who started at week 1. Return to these prompts. Revise the inputs. Refine the outputs.
+
+---
+
+## A Note on Which AI to Use
+
+As of this writing, Claude (Anthropic), Gemini (Google), and ChatGPT (OpenAI) are all capable of useful responses to these prompts. They differ in reasoning style and verbosity but not substantially in protocol-level accuracy for this kind of structured input.
+
+Use whichever you have access to. If one response seems generic or evasive, try the same prompt in another model. Some models are more conservative by default; push back if you need more specificity.
+
+The prompts in this appendix were developed and tested during the writing of this book. They work.
+
+---
+
+*The book gave you the science. The protocol gave you the framework. The prompt gives you the personalisation. The trail gives you the rest.*

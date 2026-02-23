@@ -1,0 +1,69 @@
+# Author's Foreword {.unnumbered}
+
+I was a firefighter and emergency medical technician for sixteen years.
+
+That sentence does not sound like the beginning of a book about rucking, but it is the only honest place to start, because the body I carried into this practice---and the body I nearly lost after leaving that career---is the reason the book exists.
+
+Firefighting and EMS are physical professions in the way that most people do not fully appreciate until they have worn a self-contained breathing apparatus on their back, climbed a flight of stairs in full bunker gear, and performed a technical rescue while managing their air supply. The SCBA alone weighs twelve to fifteen kilograms. Add the gear, the tools, and the heat, and you are performing high-intensity loaded work in conditions that would be classified as genuinely hazardous in any other occupational context. Sixteen years of that builds a body. Not a gym body---a working body. A body that knows how to carry weight, manage breath under restriction, sustain effort over hours, and recover quickly enough to do it again the next shift.
+
+Then I left.
+
+The risk that no one talks about when you leave a physically demanding career is not the initial fitness loss. It is the slow, invisible erosion that begins when the occupational demand disappears and nothing of equivalent physiological intelligence replaces it. I tried to replace it. I tried everything.
+
+I raced bikes---mountain and road. I did CrossFit. I did powerlifting. I tried a succession of programmes whose names I have forgotten and whose equipment I have donated. I ran trails. Strava was my governor: I measured every kilometre, every elevation gain, every heart rate zone, every segment time. I was training hard and I was always tired. The transition from shift work---where physical demand is woven into the job itself---to an eight-to-five desk schedule with training bolted on before or after was brutal. I tried going at noon. No dice. The fatigue was not the productive fatigue of adaptation. It was the depleting fatigue of a body that was working too hard, recovering too little, and mistaking exhaustion for fitness.
+
+So I stopped. Not entirely---I went into what I thought of as maintenance mode. I walked. I cycled. I went on mountain hikes. I did push-ups, pull-ups, and mobility work, just peppered throughout the day with no programme, no tracking, no ambition beyond staying functional.
+
+I did not wear a fitness watch for two years after the Strava detox. I now use a Garmin, but not as a daily governor. I create thirty-day summaries. I check it occasionally. The data is useful --- I like the data --- but it is not the master. The nose and the body come first. The watch confirms what the body already reported. This is a book about balance, not about becoming a rucking guru.
+
+And then something interesting happened. When I went on longer missions---ski touring in the Icelandic highlands, multi-day hikes---I was slower than I had been during my Strava years. But I was fitter. Meaningfully, noticeably, undeniably fitter. The maintenance had done something the programmes had not. It had let me recover.
+
+---
+
+The nasal breathing came separately, and earlier than the rucking.
+
+I read *The Oxygen Advantage* by Patrick McKeown around 2021 and then *Breath* by James Nestor when it came out. McKeown's work hit me harder, because it was more technical and more directly applicable to what I had experienced wearing the SCBA. Breathing through a mask under load, managing your air, staying calm when the air supply is finite---these are skills that firefighters develop whether or not they understand the physiology behind them. McKeown gave me the physiology. Patrick was generous enough to send me one of his resistance-breathing masks, which I used during training and still use. It provides nasal resistance that trains the respiratory muscles in a way that felt immediately familiar to anyone who has worn an SCBA facepiece. Walking around outside with it makes you look like Bane from a Batman film. People cross the street.
+
+I have slept with tape over my mouth for five years now. The sleep improvement was measurable within two weeks. The nasal breathing during exercise followed naturally---once the nighttime habit was established, the daytime transition was surprisingly easy.
+
+---
+
+The rucking discovery came from an unlikely source: my father.
+
+He is seventy-seven years old. A master stonemason---a hundred and eighty centimetres and eighty-five kilograms of muscle and tendon built over half a century of lifting stone. Last year he came to help me paint the ceiling of my house. I started. My shoulders gave out after the first quarter. My father picked up the roller and finished the remaining three-quarters without complaint. My seventy-seven-year-old father outworked me on a task that required sustained overhead endurance, and his shoulders never gave out.
+
+I used AI to figure out why.
+
+The answer, stripped of its complexity, was this: I was lacking old man's strength. Not the explosive power of a thirty-year-old. Not the VO₂max of a competitive cyclist. The sustained, low-grade, whole-body endurance that comes from decades of carrying, lifting, pushing, and pulling at moderate loads---the kind of strength that a career of physical labour builds and that no amount of gym programming replicates, because the gym trains muscles in isolation and in sets, while life trains the body as a system over hours. My father had spent fifty years as a stonemason, carrying and setting stone with his hands. I had spent sixteen years in a physically demanding profession and then five years trying to replace that demand with programmes that were too intense, too narrow, and too exhausting to sustain.
+
+I started researching loaded walking. The military literature was there. The evolutionary biomechanics were there. The osteogenic evidence was there. The more I read, the more I recognised the pattern: the thing my body had been doing for sixteen years in bunker gear and SCBA was the thing the human body was evolved to do. Carrying weight. Breathing under load. Moving at a sustainable pace over variable terrain.
+
+I started rucking. I loved it immediately.
+
+I am fortunate. My front door is sixty metres from a trail that leads to a forest. The forest climbs into hills. The hills look down on Eyjafjörður, the longest fjord in Iceland. The air is cold in the way that subarctic air is cold even in summer---the kind of cold that makes nasal breathing not just advisable but necessary, because breathing cold air through your mouth is an experience that discourages itself.
+
+I take my family with me. My eleven-year-old carries around ten percent of body weight in a small pack. I carry twenty-five to twenty-eight percent. We walk together. It is the best part of the week.
+
+---
+
+Now for the honest part.
+
+This book was not written in the traditional sense. It was assembled, compiled, and rendered using artificial intelligence tools. The research was conducted with [scite.ai](https://scite.ai), which provided citation-verified access to the peer-reviewed literature. The manuscript was written using [Claude Code](https://claude.ai) running on the [PAI](https://github.com/danielmiessler/PAI) (Personal AI) infrastructure. Additional research and cross-verification was performed with Google Gemini 3.0 Flash through 3.1 Pro, [Perplexity](https://perplexity.ai), and a custom AI research harness that coordinated queries across multiple models to triangulate findings.
+
+I prepared the ground before the agents ran. I conducted the literature reviews, organised the research outputs into structured folders, wrote the chapter outlines, and defined the voice and scope for each section. I am an AI project manager at the University of Akureyri, and I have access to some genuinely powerful tools. The writing happened in a single session. Sixteen parallel AI agents wrote sixteen chapters simultaneously while I was out rucking.
+
+I came home to a book.
+
+**This manuscript is not peer-reviewed.** It is an open-source experiment using cutting-edge AI tools applied to a body of peer-reviewed research. The AI did not generate the science---the science was already there, published by researchers working independently across evolutionary anthropology, exercise physiology, biomechanics, endocrinology, and respiratory medicine. What the AI did was read it, synthesise it, and write about it at a level of integration that would have taken a human author months or years. Every claim is referenced. Every evidence gap is disclosed. Where the data is strong, the language is confident. Where the data is indirect, the inferential basis is stated.
+
+I read the result. I liked it. I hope you do too.
+
+The book is released under the MIT License because the knowledge in it should be free. The evidence for loaded walking as the single most complete human exercise should not sit behind a paywall or a publishing contract. It should be on a trail, in a pack, on your back.
+
+If you are reading this and you are a researcher: Chapter 13 contains your agenda. The evidence gaps are real, and filling them would change the field.
+
+If you are reading this and you are a forty-one-year-old former firefighter whose father can outpaint him: welcome. I wrote this for you. I wrote this for me. I wrote this for everyone whose body was built to carry and who forgot, for a while, what that meant.
+
+Put on the pack.
+
+*--- Magnus Smári Smarason, Akureyri, Iceland, 23 February 2026*
