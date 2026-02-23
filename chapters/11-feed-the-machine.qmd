@@ -40,6 +40,50 @@ It is almost never genetics.
 
 ---
 
+### How to Eat This Much Without Panic
+
+If you have spent twenty years managing your intake at 1,500 kilocalories a day, reading that you may need 2,500 or more will produce a specific feeling. Name it: panic. Or something adjacent to it---the reflexive internal protest of a nervous system that has been conditioned to treat large meals as failure. That response is rational given the history that produced it. It is also, from a physiological standpoint, exactly backwards. The goal here is not to override the feeling by willpower. It is to give you enough context that the feeling loses some of its authority.
+
+**The volume problem, and how to solve it**
+
+The first practical obstacle is that hitting 2,400 or 2,600 kilocalories on chicken breast and broccoli alone is physically exhausting. The volume of food required to reach those numbers from lean protein and vegetables is genuinely difficult to manage. This is not a failure of appetite or discipline---it is a caloric density problem, and it has a straightforward solution.
+
+Caloric density is the ratio of energy to volume, and manipulating it is the most underused tool in athletic nutrition. Several foods provide substantial kilocalories in small physical packages:
+
+- Olive oil adds 120 kilocalories per tablespoon. Drizzle it on rice, vegetables, salad, soup. Two tablespoons in a meal adds 240 kilocalories with no meaningful increase in volume.
+- A handful of almonds---roughly 30 grams---provides approximately 170 kilocalories. A small bag of mixed nuts in a jacket pocket is not a snack. It is an energy delivery mechanism.
+- One medium avocado provides approximately 250 kilocalories, predominantly monounsaturated fat, alongside fibre and potassium. It is one of the most calorically efficient whole foods available.
+- A protein shake built properly---protein powder, whole milk, one banana, 40 grams of rolled oats, blended---clears 500 kilocalories and can be consumed in four minutes. This is not a supplement. It is a meal in liquid form, and it bypasses the satiety signals that make high-volume solid food difficult to finish.
+- Full-fat Greek yoghurt, hard cheese, cottage cheese: all dense in both kilocalories and protein, easy to add as accompaniments without restructuring a meal.
+
+The prescription is not to abandon vegetables and lean protein. It is to stop trying to hit a 2,500-kilocalorie target with foods that deliver 80 kilocalories per 100 grams. Use caloric density where volume is the constraint.
+
+**The "what if I gain fat" question**
+
+This is the question underneath the panic, and it deserves a direct answer rather than reassurance.
+
+Some initial weight gain is likely. It is also, in the context of a rucking programme, largely desirable. Bone mineral is dense. Muscle tissue is denser than fat. A body that is successfully responding to a load carriage stimulus will add mass before it loses it, and the scale will reflect that in ways that can feel alarming if you are interpreting all weight gain as fat accumulation. It is not.
+
+The second relevant mechanism is metabolic adaptation. A body that has been chronically underfed does not maintain its baseline metabolic rate. It downregulates: suppressing thyroid output, reducing non-exercise activity thermogenesis, decreasing the energy cost of digestion. When you increase intake after a period of chronic restriction, this suppressed metabolism does not immediately normalise. Increasing intake gradually---by approximately 200 kilocalories per week over several weeks---allows metabolic rate to upregulate before a meaningful surplus accumulates. The transition is manageable if it is gradual.
+
+The third piece of arithmetic: rucking at the volumes this programme prescribes burns 400 to 600 kilocalories per session. This is not a sedentary context in which a caloric surplus will simply convert to fat stores. The energy is going somewhere. The question is whether it is going to bone mineralisation, muscle protein synthesis, and tendon remodelling---or whether, in the absence of adequate intake, those processes are being funded by metabolic downregulation and skeletal catabolism instead.
+
+Frame it this way: you are not eating more and risking gaining fat. You are funding construction. Bone remodelling, muscle protein synthesis, and connective tissue adaptation all require surplus energy to proceed. Underfunding them is not a neutral choice. It is how stress fractures develop, how overtraining syndrome manifests, and how a programme that should be producing adaptation produces injury instead.
+
+**The practical floor**
+
+A single rule that requires no formula: if you are rucking three times a week and you are not eating at least 2,000 kilocalories a day, you are borrowing from your skeleton.
+
+That is not a metaphor. The body will meet the energetic demand of the sessions one way or another. If intake does not cover it, the deficit comes out of bone mineral, hormonal production, and immune function. The pack does not care. The skeleton keeps the bill.
+
+**The 80/15/5 rule**
+
+Perfection is not the standard. Sustainability is. A useful heuristic for the rucking diet: eighty percent of your intake should be reasonably clean---whole foods, adequate protein, real ingredients you could identify by looking at them. Fifteen percent can be mediocre---the convenience meal, the less-than-ideal snack, the thing you grabbed because life happened and you needed calories. And five percent is permission to just go for it. The pizza. The ice cream. The thing you want because you are a human being with a nervous system that responds to pleasure, and denying that system indefinitely is how diets fail.
+
+The mathematics of energy availability do not care whether your two thousand five hundred kilocalories came from organic quinoa or from a Tuesday night burger. They care that they arrived. The eighty percent keeps the micronutrient profile intact, the protein targets met, and the gut microbiome functional. The fifteen percent keeps you fed on the days that clean eating is logistically impossible. The five percent keeps you sane. All three matter. The person who eats perfectly for six weeks and then abandons the protocol entirely has worse cumulative nutrition than the person who eats well enough, consistently, for thirty years.
+
+---
+
 ## Fasting Before Rucking Is Hormonal Sabotage
 
 Among the dietary strategies that have achieved mainstream popularity in the last decade, fasted morning exercise stands out as particularly incompatible with loaded carries. The appeal is understandable. Fasted training in the absence of a loaded pack can produce modest adaptations in fat oxidation pathways, and for very low-intensity, very short duration aerobic work, the hormonal consequences are manageable. Load carriage is neither low-intensity nor, at optimal doses, short duration.

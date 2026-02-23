@@ -35,6 +35,7 @@ book:
         - chapters/14-put-on-the-pack.qmd
     - chapters/epilogue.qmd
     - chapters/appendix-protocol.qmd
+    - chapters/appendix-prompting.qmd
     - references.qmd
 
 bibliography: references.bib
