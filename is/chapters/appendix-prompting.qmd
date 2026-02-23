@@ -1,0 +1,181 @@
+# Viðauki B: Að beita gervigreind til að sérsníða þjálfunaráætlunina {.unnumbered}
+
+*Bókin gaf þér vísindin. Samskiptareglan gaf þér rammann. Kvaðninguna gefur þér sérsnídda leiðina. Slóðin gefur þér restina.*
+
+---
+
+## Þessi bók var til til með aðstoð gervigreindar
+
+Rannsóknirnar á þessum síðum voru settar saman, prófaðar og sameinuð með aðstoð gervigreindar. Sérhvert kafli fór í gegnum margar umferðir af fræðilegri yfirferð, rökfræðilegu endurskoðun og gagnvísindatengingu með stórum tungumálalíkönum. Þetta er ekki játning sem þarf að biðjast afsökunar á. Þetta er boð.
+
+Ef gervigreind gat hjálpað til við að byggja þessa bók, getur hún hjálpað þér að nota hana.
+
+Akureyrarsamskiptareglan í Viðauka A gefur almennan ramma: hlutfall byrðanna, nefaöndunina sem hlið, og tímalínu framvindu. En líkami þinn er ekki almennur. Aldur þinn, beinþéttni þín, hormónastaða þín, þjálfunarferill þinn, meinskaferill þinn og næringarlegt grunnlínu þín eru sértæk fyrir þig. Gervigreindarforrit til neytenda — Claude, Gemini, ChatGPT — geta tekið meginreglurnar í þessari bók og sérsniðið þær að þínum aðstæðum, að því tilskildu að þú gefir þeim réttar upplýsingar.
+
+Þetta er ekki töfrar. Gervigreind hefur ekki aðgang að blóðprufum þínum, ganglag þínu, eða tilfinningunni í hnjám þínum eftir hlíð. En hún hefur getu til að rökræða yfir umfangsmiklar rannsóknir á líkamsrækt og beita samskiptareglulegri rökfræði á þær tölur sem þú gefur henni. Það er raunverulega gagnlegt. Notaðu það.
+
+Þessi viðauki gefur þér kvaðningarnar. Afritaðu þær. Breyttu þeim. Notaðu þær.
+
+---
+
+## Grunnkvaðningin
+
+Þetta er upphafsstaður þinn. Límdu hana inn í hvaða gáfaðan gervigreindarlíkan sem er og fylltu inn þínar upplýsingar. Því nákvæmari sem þú ert, þeim mun nákvæmari verður framleiðslan.
+
+> **Athugasemd:** Kvaðningarnar hér að neðan eru á ensku þar sem gervigreindarlíkön vinna best á ensku. Fylltu inn þínar persónulegu upplýsingar í hornklofana og notaðu kvaðninguna eins og hún er.
+
+```
+I am a [age]-year-old [male/female], [weight] kg, [height] cm.
+My current activity level: [sedentary / lightly active / moderately active / very active].
+My most recent DXA scan T-score (if available):
+  - Femoral neck: [X.X]
+  - Lumbar spine: [X.X]
+My relevant medical history: [list any conditions, injuries, medications, surgeries].
+My current daily caloric intake: approximately [X] kilocalories.
+My current protein intake: approximately [X] grams per day.
+My rucking experience: [none / beginner (under 3 months) / intermediate (3-12 months) / experienced].
+
+Using the Akureyri Protocol from "Born to Ruck" by Magnus Smári Smarason, which specifies:
+- Starting load: 10% of body weight
+- Target load: 20-27% of body weight over 6-12 months
+- Progression: +2 kg per 2-week block (male) / +2 kg per 3-week block (female)
+  — only if nasal breathing is maintained throughout
+- Frequency: 3-4 sessions per week, 30-60 minutes
+- Intensity: Zone 2 only, governed by nasal breathing gate
+- Energy Availability: minimum 45 kcal/kg fat-free mass per day
+- Protein: 1.6-2.2 g/kg bodyweight per day
+
+Please generate:
+1. A 12-week load progression plan with weekly target weights
+2. My recommended daily caloric and protein targets based on my body weight and activity level
+3. Any red flags or protocol modifications based on my specific profile
+4. A suggested weekly schedule (which days, which movements)
+5. One thing I should watch most closely in weeks 1-4
+```
+
+Lestu niðurstöðuna vandlega. Og mótmæl henni síðan. Biddu gervigreindina um að útskýra hverja þá tillögu sem þú skilur ekki. Spurðu hana hvað breytist ef DXA-gildi þitt væri annað. Spurðu hvernig íhaldssamt útgáfan lítur út. Gervigreindarlíkön svara vel eftirfylgnisspurningum — líttu á fyrstu niðurstöðuna sem drög, ekki sem forskrift.
+
+---
+
+## Kvaðningin fyrir tíðahvörf og lífsbreytingarskeið
+
+Konur á aldrinum 45–65 ára standa frammi fyrir sérstakri samþjöppun áhættu og tækifæra sem almenna grunnkvaðningin nær ekki að gripast að fullu. Beinskupin er að þrengja. Hormónastaðan hefur áhrif á burðarþol, hraða bata og útreikninga á orkuframboði. Þessi kvaðning beinir sér beint að þessum þáttum.
+
+> **Athugasemd:** Kvaðningin er á ensku til að fá bestu mögulegu niðurstöður úr gervigreindarlíkaninu. Fylltu inn þínar persónulegu upplýsingar á ensku.
+
+```
+I am a [age]-year-old woman in [perimenopause / early post-menopause / post-menopause (5+ years)].
+My body weight: [X] kg. Height: [X] cm.
+My oestrogen status: [on HRT / not on HRT / recently stopped HRT / unknown].
+My most recent DXA T-score (if available):
+  - Femoral neck: [X.X]
+  - Lumbar spine: [X.X]
+My most recent relevant blood work: [e.g., Vitamin D: X nmol/L, ferritin: X µg/L, or "not available"].
+My pelvic floor history: [no issues / previous prolapse / stress incontinence / not assessed].
+My primary goals: [bone density / fall prevention / lean mass preservation / cardiovascular health / all of the above].
+
+Using Chapter 7 (Her Bones, Her Rules) and the Akureyri Protocol from "Born to Ruck" by
+Magnus Smári Smarason, which notes:
+- Female load progression is more conservative: +2 kg per 3-week block
+- PFJ stress is higher in females than males at equivalent loads (Willy et al. 2025)
+- 120 spm cadence attenuates peak vertical ground reaction force
+- The osteogenic threshold requires approximately 25-30% bodyweight load at 1.5 m/s
+- Energy availability below 45 kcal/kg FFM/day triggers bone resorption (RED-S risk)
+- HRT use affects recovery speed and bone response timeline
+
+Please generate:
+1. A conservative 12-week starting programme that accounts for my hormonal status
+2. My energy availability calculation and daily caloric floor
+3. Cadence and load recommendations specific to my PFJ risk profile
+4. Nutritional priorities (calcium, vitamin D, protein targets) for my life phase
+5. Signs that I should reduce load or pace in any given week
+6. Whether HRT status changes any of these recommendations, and how
+```
+
+Ef læknir þinn hefur mælt gegn þyngdarbera hreyfingu vegna beinþéttni, deildu þessari niðurstöðu gervigreindarinnar með honum. Notaðu hana sem samræðuskjal, ekki í stað ráðgjafar hans.
+
+---
+
+## Kvaðningin fyrir endurkomu til þjálfunar
+
+Fyrir lesendur sem eru að koma aftur eftir meiðsli, veikindi, skurðaðgerð eða langa kyrrsetu. Staðlaða samskiptareglan gengur út frá grundvallarlíkamsrækt. Ef þú ert að snúa aftur eftir tímabil verulegrar líkamlegrar niðurníðslu, þarf upphafsgildi og framvinduhraði að lækka niður.
+
+> **Athugasemd:** Kvaðningin er á ensku til að fá bestu mögulegar niðurstöður. Fylltu inn þínar persónulegu upplýsingar í hornklofana.
+
+```
+I am a [age]-year-old [male/female], [weight] kg.
+I have been largely sedentary for the past [X months / X years] due to:
+[describe reason: injury, illness, post-surgery, life circumstances, etc.]
+
+My current status:
+- I can walk [X] minutes continuously without discomfort
+- My most significant limitation is: [joint pain / fatigue / cardiovascular deconditioning /
+  post-surgical restriction / other]
+- Clearance from a physician or physiotherapist: [yes / no / not yet sought]
+
+Using the Akureyri Protocol from "Born to Ruck" by Magnus Smári Smarason, and assuming
+I need a sub-protocol entry point below the standard 10% bodyweight starting load:
+
+Please generate:
+1. A modified 6-week re-entry phase before I begin the standard 12-week protocol
+2. What bodyweight load (if any) I should start with in weeks 1-2
+3. How to know when I am ready to progress to the standard protocol entry point
+4. Any movements from the five-movement system I should defer until later
+5. One metric to monitor weekly to confirm I am recovering, not deteriorating
+```
+
+Endurkomuskeiðið skiptir meira máli en flestir gera sér grein fyrir. Að koma aftur of hratt lengir tímalínuna. Að koma aftur hægt styðst hana.
+
+---
+
+## Að uppfæra gervigreindina eftir því sem þú þróast
+
+Kvaðningin er ekki einfalt viðskipti. Gefðu gervigreininni raunverulegar niðurstöður þínar á fjögurra vikna fresti. Hér þykknar sérsnídningin.
+
+Einfalt uppfærslusniðmát:
+
+> **Athugasemd:** Uppfærslusniðmátið er einnig á ensku. Reiddu þig á það til að halda samhengi frá fyrri lotum.
+
+```
+Update from week [X] of the Akureyri Protocol.
+
+Starting stats: [weight, initial load, energy availability target]
+Current stats: [current load, sessions per week, average session duration]
+
+What is going well: [e.g., nasal breathing feels natural at 16 kg, no joint pain]
+What is not going well: [e.g., right knee soreness after long sessions, fatigue lasting
+  more than 48 hours after Thursday sessions]
+Nutrition compliance: [e.g., hitting protein targets, caloric intake approximately X kcal/day]
+
+Based on this update, please review my progression plan and flag anything that should change.
+```
+
+Gervigreindarlíkan sem þekkir raunveruleika þinn á viku fjórum getur gefið þér verulega gagnlegri leiðbeiningar en eitt sem einungis vinnur út frá grunnlínunni þinni á viku núll. Líkanið man ekki eftir fyrri samræðum í flestum notendaforritum — límdu grunnlínugögnin aftur inn þegar þú snýrð aftur.
+
+---
+
+## Mikilvægar fyrirvararar
+
+Þessar kvaðningar búa til upphafsstaði, ekki læknisfræðilegar ráðleggingar. Munurinn skiptir máli.
+
+**Gervigreind er ekki læknir.** Ef þú ert með greindan sjúkdóm, virkt meiðsli, beinþynning (T-gildi undir –2,5), eða hjarta- og æðasjúkdóm, deildu niðurstöðu gervigreindarinnar með lækni þínum eða sjúkraþjálfara áður en þú bregst við. Kvaðningarnar eru hannaðar til að framleiða íhaldsamar, sönnunargagnarótaðar ráðleggingar — en íhaldssöm þýðir ekki sama og læknisfræðilega viðeigandi fyrir hvern einstakling.
+
+**Gervigreind þekkir ekki líkama þinn. Þú þekkir líkama þinn.** Ef niðurstöðan finnst þér röng — ef byrðin virðist of áskilin, áætlunin of krefjandi, eða ráðlegging passar ekki við lífsreynslu þína — þá er hún líklega röng fyrir þig sérstaklega. Hnektu henni. Endurgjöf líkama þíns er betra merki en nokkur reiknirit.
+
+**Rugl inn, rugl út.** Gervigreind sem fær óljósar inntakslegar framleiðir óljósar niðurstöður. „Ég er nokkuð virk/ur" er minna gagnlegt en „Ég geng 20 mínútur flestan dag og geri létt garðstarf." Nákvæmni er munurinn á almennri ráðgjöf og raunverulega gagnlegri sérsnídningu.
+
+**Uppfærðu eftir því sem þú þróast.** Líkamsræðivísindi eru ekki kyrrstæð, og ekki ert þú það heldur. Manneskjan sem er að rykkja á viku tólf er lífeðlisfræðilega önnur en manneskjan sem byrjaði á viku einni. Snúðu aftur að þessum kvaðningum. Endurskoðaðu inntakið. Fínstilltu niðurstöðurnar.
+
+---
+
+## Athugasemd um hvaða gervigreind á að nota
+
+Þegar þetta er skrifað eru Claude (Anthropic), Gemini (Google) og ChatGPT (OpenAI) öll fær um gagnlegar svörun við þessum kvaðningum. Þau greinast að hvað varðar rökhunsunarlegan stíl og orðræðulegt umfang en ekki að neinu marktæku leyti hvað varðar nákvæmni á samskiptareglustiginu fyrir þessa tegund skipulagðra inntaka.
+
+Notaðu það sem þú hefur aðgang að. Ef eitt svar virðist almennt eða þvíslægt, prófaðu sömu kvaðninguna í öðru líkani. Sum líkön eru meira íhaldssöm að sjálfgefnu; ýttu á ef þú þarft meiri nákvæmni.
+
+Kvaðningarnar í þessum viðauka voru þróaðar og prófaðar meðan á ritun þessarar bókar stóð. Þær virka.
+
+---
+
+*Bókin gaf þér vísindin. Samskiptareglan gaf þér rammann. Kvaðningin gefur þér sérsníddu leiðina. Slóðin gefur þér restina.*
