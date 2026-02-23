@@ -1,0 +1,74 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Born to Ruck"
+  subtitle: "The Science of Weighted Walking and the Exercise Your Body Was Built For"
+  author: "Magnus Smari Smarason"
+  date: "2026-02-23"
+  language: en
+  chapters:
+    - index.qmd
+    - chapters/00-foreword.qmd
+    - part: "**PART I: THE WRONG ROAD**"
+      chapters:
+        - chapters/01-the-running-lie.qmd
+        - chapters/02-the-cardio-industrial-complex.qmd
+        - chapters/03-what-the-military-knows.qmd
+        - chapters/04-the-osteogenic-window.qmd
+    - part: "**PART II: THE PORTER PRIMATE**"
+      chapters:
+        - chapters/05-born-to-carry.qmd
+        - chapters/06-the-testosterone-question.qmd
+        - chapters/07-her-bones-her-rules.qmd
+        - chapters/08-breathe-through-your-nose.qmd
+    - part: "**PART III: THE FIVE MOVEMENTS**"
+      chapters:
+        - chapters/09-the-pack-on-your-back.qmd
+        - chapters/10-the-four-companions.qmd
+        - chapters/11-feed-the-machine.qmd
+    - part: "**PART IV: THE LONG ROAD**"
+      chapters:
+        - chapters/12-decades.qmd
+        - chapters/13-what-we-dont-know.qmd
+        - chapters/14-put-on-the-pack.qmd
+    - chapters/epilogue.qmd
+    - chapters/appendix-protocol.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: apa.csl
+
+format:
+  html:
+    theme:
+      light: cosmo
+    number-sections: false
+    toc: true
+    toc-depth: 2
+    css: custom.css
+  pdf:
+    documentclass: book
+    papersize: letter
+    fontsize: 11pt
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1.25in
+    mainfont: "Georgia"
+    sansfont: "Helvetica Neue"
+    monofont: "Menlo"
+    number-sections: false
+    toc: true
+    toc-depth: 2
+    colorlinks: true
+    linkcolor: "NavyBlue"
+    urlcolor: "NavyBlue"
+    keep-tex: true
+  epub:
+    number-sections: false
+    toc: true
+    toc-depth: 2
+    cover-image: cover.png

@@ -1,0 +1,177 @@
+# Feed the Machine {#sec-nutrition}
+
+The most effective rucking programme in the world is counterproductive if you do not eat enough. Read that sentence again. Not insufficiently effective---counterproductive. As in: the adaptation you are trying to drive reverses. The bone you are trying to build fails to mineralise. The testosterone you are trying to preserve declines. The muscle you are trying to accrue stays exactly where it was not. The programme works. The body refuses to respond. And most people who experience this outcome look everywhere except the kitchen for an explanation.
+
+This is not a diet chapter. There are no macronutrient pyramids, no meal timing apps, no protocols involving sixteen-hour fasting windows and carefully periodised re-feed days. This is an energy availability chapter---a narrower, more important, and almost entirely overlooked concept that the exercise physiology literature has been building toward for three decades. The distinction matters because diet culture and energy availability point in completely opposite directions. Diet culture says eat less. Energy availability science says eat enough. For anyone who has just added three to five hours of weighted walking to their weekly schedule, those two directives are not in tension---they are at war. And only one of them is compatible with the physiological goals of this programme.
+
+The other one will hurt you.
+
+---
+
+## The Number That Governs Everything
+
+Energy availability is not the same as caloric intake. It is not the same as caloric expenditure. It is a ratio, expressed in a unit that most people have never encountered outside of a peer-reviewed journal: kilocalories per kilogram of fat-free mass per day. The formula is simple and its implications are not.
+
+Energy availability = (Energy intake - Exercise energy expenditure) / Fat-free mass
+
+What this equation captures is the energy remaining for physiological function after the cost of exercise has been subtracted from total intake. It is the fuel available for everything else: bone remodelling, hormonal synthesis, immune regulation, thermoregulation, protein turnover, reproductive function, connective tissue maintenance, and the thousand other metabolic processes that keep a body operational. When this residual falls below a threshold, the body does not simply slow down. It begins a systematic triage of non-essential functions. The nervous system, the heart, the lungs---these are essential. The reproductive axis, the skeletal remodelling cycle, thyroid hormone production---these are negotiable. When energy is scarce, the body negotiates ruthlessly.
+
+The threshold at which this triage begins is approximately 30 kilocalories per kilogram of fat-free mass per day. The threshold below which bone formation effectively ceases and hormonal suppression becomes measurable is approximately 45 kilocalories per kilogram of fat-free mass per day. This second number---45 kcal/kg FFM/day---is the central figure in a 2021 review by Holtzman and Ackerman that every rucking athlete, and every coach who programmes rucking athletes, needs to understand in precise detail.
+
+Holtzman and Ackerman synthesised the evidence on energy availability and bone health across athletic populations, and their conclusion was unambiguous: energy availability at or above 45 kcal/kg FFM/day is the prerequisite for bone remodelling to proceed. Not an optimal condition. A prerequisite. Below this threshold, markers of bone formation---osteocalcin, bone-specific alkaline phosphatase, P1NP---decline within five days. Not five months. Five days. The suppression is that fast. It is also, if the deficit persists, cumulative. Weeks of low energy availability produce deficits in bone mineral density that take months of adequate nutrition to restore, and which may never be fully recouped in older adults.
+
+The reason this matters specifically to ruckers is the exercise component of the equation. Rucking is not a low-caloric-expenditure activity. A 65-kilogram person rucking at fifteen percent of body weight for forty-five minutes expends approximately 215 to 240 kilocalories above resting metabolic rate. Increase the load to twenty percent of body weight and extend the session to sixty minutes and the excess expenditure rises to 340 to 380 kilocalories. At twenty-seven percent of body weight, sixty minutes produces 390 to 440 kilocalories above rest; seventy-five minutes at the same load produces 490 to 550 kilocalories. These figures are drawn from the Load Carriage Demand Algorithm developed by Looney and colleagues in 2024, which remains the most precise predictive model for metabolic power during load carriage over varied terrain and grade.
+
+These numbers are not alarming in isolation. They become alarming when placed alongside the dietary behaviour of people who begin a new exercise programme.
+
+---
+
+## Why Everyone Under-Eats When They Start Training
+
+The pattern is consistent enough across populations and exercise modalities that exercise physiologists have a name for it: compensatory eating reduction. When people start training---particularly when they start training with a goal that involves body composition change---they instinctively, and often deliberately, eat less. The logic is intuitive and completely wrong. The thinking goes: I am burning more calories, so if I also eat less, I will accelerate whatever result I am after. The actual consequence is that caloric intake decreases at exactly the moment exercise energy expenditure increases, compressing energy availability from both sides simultaneously.
+
+For someone who was already eating at a moderate deficit---which describes a meaningful fraction of the adult population at any given time, particularly women---the addition of three to four rucking sessions per week producing 300 to 550 extra kilocalories of expenditure per session can push energy availability from a borderline 38 to 40 kcal/kg FFM/day down to 25 or 28 kcal/kg FFM/day. That is below the threshold at which bone formation occurs. That is below the threshold at which the hypothalamic-pituitary axis maintains normal hormonal pulsatility. That is, to use the clinical term, Relative Energy Deficiency in Sport, and its consequences are not subtle.
+
+The syndrome was formally described as RED-S by the International Olympic Committee in 2014, expanding the older concept of the Female Athlete Triad---the triad of low energy availability, menstrual dysfunction, and low bone density---to acknowledge that men are affected too, and that the consequences extend well beyond bone and reproduction to include cardiovascular function, gastrointestinal health, immune function, psychological health, and athletic performance across every metric.
+
+The fitness industry---particularly the segments of it that market to women---has spent twenty years telling people that training hard and eating less is the formula. It is worth being direct about this: that formula is not just ineffective for the goals most people hold. It is physiologically harmful. It suppresses the hormones that build the body. It blocks the osteogenic response that justifies every hour spent under a heavy pack. It guarantees that the adaptation does not happen. And because the consequences are slow to manifest and diffuse in their symptomatology---fatigue, mood change, performance plateau, irregular menstrual cycles, stress fractures that seem to come from nowhere---they are easily attributed to something else. Overtraining. Life stress. Getting older. Genetics.
+
+It is almost never genetics.
+
+---
+
+## Fasting Before Rucking Is Hormonal Sabotage
+
+Among the dietary strategies that have achieved mainstream popularity in the last decade, fasted morning exercise stands out as particularly incompatible with loaded carries. The appeal is understandable. Fasted training in the absence of a loaded pack can produce modest adaptations in fat oxidation pathways, and for very low-intensity, very short duration aerobic work, the hormonal consequences are manageable. Load carriage is neither low-intensity nor, at optimal doses, short duration.
+
+The relevant mechanism was described with clarity by Hackney in 2008 in a study examining energy deficiency and testosterone production in male endurance athletes. Hackney documented that even acute energy deficiency---the kind produced by a single session of exercise in the absence of adequate pre-exercise fuelling---produces measurable suppression of the hypothalamic-pituitary-gonadal axis. The luteinising hormone pulse amplitude that drives testosterone synthesis diminishes within hours of energy deficit onset. In men who trained fasted regularly, resting testosterone concentrations were measurably lower than in matched controls who trained fed. The suppression was not catastrophic in a single session. It becomes consequential when the pattern is repeated session after session, week after week, across a training programme.
+
+For women, the equivalent axis---the hypothalamic-pituitary-ovarian axis---is at least as sensitive to energy availability and arguably more so. Luteinising hormone pulsatility in women is disrupted by energy deficits that would produce only modest testosterone suppression in men of equivalent mass. The clinical presentations differ between sexes---men experience testosterone suppression without overt menstrual symptoms because there are no menstrual cycles to disrupt---but the underlying mechanism is identical. The hypothalamus reads insufficient energy availability as a signal that reproductive investment is inadvisable. The appropriate evolutionary response to caloric scarcity is reproductive downregulation. The appropriate response to a recreational fitness programme is not reproductive downregulation. And yet the hypothalamus cannot distinguish between a savanna famine and a six-week fat-loss protocol combined with thirty-kilometre weekly rucking mileage.
+
+The practical prescription for pre-ruck fuelling is not elaborate. Consume 20 to 40 grams of protein and 30 to 60 grams of carbohydrate in the 60 to 90 minutes before a session lasting more than forty-five minutes. This is a bowl of Greek yoghurt and a banana. It is two eggs on toast. It is a small portion of leftover rice with some form of protein. The goal is to arrive at the session with blood glucose stable, glycogen stores primed, and the hypothalamus reading an energy environment that permits normal hormonal function. That is not a complex nutritional strategy. It is eating.
+
+---
+
+## The Arithmetic of Energy Availability
+
+To make this concrete, consider a hypothetical forty-two-year-old woman, 68 kilograms, body fat approximately 28 percent, fat-free mass therefore approximately 49 kilograms. She is rucking four times per week: two forty-five-minute sessions at fifteen percent of body weight and two sixty-minute sessions at twenty percent, producing combined weekly exercise energy expenditure of approximately 1,380 to 1,520 kilocalories above rest.
+
+To maintain energy availability at the 45 kcal/kg FFM/day threshold, she needs:
+
+(45 kcal/kg FFM/day x 49 kg FFM) + daily exercise energy expenditure
+
+On her two shorter ruck days, daily exercise expenditure is approximately 215 to 240 kilocalories. Her energy availability target requires total daily intake of approximately 2,420 to 2,445 kilocalories.
+
+On her two longer ruck days, daily exercise expenditure is approximately 340 to 380 kilocalories. Her energy availability target requires total daily intake of approximately 2,545 to 2,585 kilocalories.
+
+On her three rest days, assuming modest daily activity, she needs approximately 2,205 kilocalories to maintain adequate energy availability.
+
+Now compare those numbers to the caloric targets commonly prescribed by fitness apps to a 68-kilogram woman seeking moderate weight loss: 1,400 to 1,600 kilocalories per day regardless of training schedule. The gap between 1,600 and 2,585 is not a rounding error. It is 985 kilocalories---an energy availability deficit large enough, sustained over weeks, to measurably suppress bone formation, suppress ovarian function, suppress thyroid hormone, elevate cortisol, and degrade performance on every metric her rucking programme is designed to improve.
+
+The woman following the app is not making an unreasonable choice given the information presented to her. She has been told, repeatedly, by sources she has reason to trust, that weight loss requires a caloric deficit and that the appropriate response to increased exercise is to modestly increase intake. The modest increase does not come close to bridging the gap. She is, in effect, being systematically misdirected.
+
+---
+
+## The Protein Floor
+
+Of the three macronutrients, protein is the one with the most direct bearing on the adaptations rucking is designed to drive. Protein provides the substrate for muscle protein synthesis. It provides the collagen precursors for connective tissue remodelling. It provides the amino acid building blocks for bone matrix proteins including osteocalcin and Type I collagen. It is, to extend the machine metaphor, not simply a fuel but a construction material.
+
+The current evidence consensus for protein requirements in active adults undergoing resistance or load-bearing exercise places the optimal range at 1.6 to 2.0 grams per kilogram of total body weight per day. For the 68-kilogram woman in the example above, this means 109 to 136 grams of protein daily. For a 90-kilogram man who rucks four times per week, this means 144 to 180 grams.
+
+These targets are achievable but require deliberate attention in a dietary environment where protein is frequently displaced by processed carbohydrates. Practical protein anchors: 200 grams of cooked chicken breast provides approximately 47 grams; 200 grams of cottage cheese provides approximately 24 grams; three large eggs provide approximately 19 grams; 200 grams of Greek yoghurt provides approximately 20 grams; 100 grams of raw oats provides approximately 13 grams. Building meals around protein sources rather than carbohydrate or fat sources---the simple inversion of how most convenience food is architected---is the practical prescription. No supplements are required to hit 1.6 grams per kilogram per day on a varied omnivorous diet. They may simplify the arithmetic.
+
+For women specifically, the evidence suggests that the lower bound of 1.6 grams per kilogram per day is insufficient during certain hormonal phases. Protein requirements appear to be modestly higher in the luteal phase of the menstrual cycle---the approximately fourteen days between ovulation and menstruation---when oestrogen and progesterone levels shift in ways that alter protein oxidation rates and amino acid availability. The practical recommendation is to aim for the upper end of the range (1.8 to 2.0 grams per kilogram per day) during the luteal phase rather than the lower. This is not a dramatic adjustment. For the 68-kilogram woman, it means the difference between 109 and 122 grams per day---roughly one additional serving of a protein-dense food.
+
+For women in perimenopause, the prescription is more emphatic: 1.8 to 2.0 grams per kilogram per day consistently, without phase-cycling the upper bound down. The evidence on protein requirements in perimenopausal women is accumulating rapidly, and it converges on a clear message: the decline in oestrogen that characterises perimenopause reduces anabolic signalling in muscle tissue, meaning that higher protein availability is needed to produce the same rate of muscle protein synthesis that lower protein intakes would have provided ten years earlier. This is not a reason for pessimism. It is a reason to eat more chicken.
+
+---
+
+## Carbohydrates Are Not Optional
+
+The diet culture of the 2010s produced a durable consensus in the popular imagination: carbohydrates are problematic, glycaemic index is a useful guide to food quality, and reducing carbohydrate intake is a reliable path to metabolic health and body composition improvement. The evidence for these positions ranges from modest to negligible in general healthy adult populations, and it is emphatically wrong for people performing sustained load carriage at the volumes this programme prescribes.
+
+Carbohydrates are the primary fuel for glycolytic muscle fibre recruitment and for maintaining blood glucose during submaximal exercise of the duration rucking typically involves. At the exercise intensities common in rucking---60 to 75 percent of heart rate maximum, solidly in the aerobic zone---the body oxidises both fat and carbohydrate. The ratio shifts toward fat as exercise duration extends past 60 to 90 minutes, but carbohydrate remains a meaningful fuel source throughout. More importantly, carbohydrate availability before and after training influences glycogen resynthesis, muscle protein synthesis rates (through insulin's anabolic signalling), cortisol suppression post-exercise, and the hormonal environment that determines whether the hypothalamus interprets the training session as a survivable stress or a resource emergency.
+
+The quantitative recommendation for active adults performing load carriage is a minimum of 3 to 5 grams of carbohydrate per kilogram of body weight per day on training days---with the upper end of that range applicable on the heavier and longer sessions. For the 68-kilogram woman: 204 to 340 grams of carbohydrate on ruck days. These are not extreme numbers by the standards of athletic nutrition science, but they will likely exceed what most people currently consume when they are simultaneously exercising more and trying to manage body weight.
+
+The strategic placement of these carbohydrates matters at least as much as their total quantity. Pre-exercise carbohydrates prime glycogen stores and stabilise blood glucose at session onset. Post-exercise carbohydrates, consumed within sixty minutes of session completion alongside protein, initiate glycogen resynthesis and create the insulin environment that drives amino acids into muscle tissue. The post-exercise window is real. It is not the dramatically narrow slot that fitness media once described---the body remains meaningfully responsive to post-exercise nutrition for two to four hours after session completion---but earlier is consistently better than later, and waiting until dinner after a morning ruck is a suboptimal pattern.
+
+---
+
+## The Micronutrients That Rucking Depletes
+
+Total energy and macronutrients establish the foundation. Four micronutrients warrant specific attention for anyone performing regular load carriage, because they are directly implicated in the primary adaptation goals of the programme and because they are the micronutrients most commonly deficient in the populations likely to be reading this book.
+
+**Vitamin D.** The evidence for vitamin D's role in bone mineralisation is so extensive and so consistently reproduced across populations, designs, and follow-up periods that it has moved from hypothesis to established mechanism. Vitamin D facilitates intestinal calcium absorption, regulates osteocalcin expression, and is a direct modulator of bone formation and resorption. For men performing load-bearing exercise, vitamin D sufficiency---defined as serum 25-hydroxyvitamin D above 30 ng/mL, with optimal function at 40 to 60 ng/mL in most studies---is associated with meaningfully better bone mineral density response to training. The recommended supplemental dose for adults at northern latitudes, or those with limited sun exposure, is at least 2,000 IU per day, with many sports medicine clinicians recommending 3,000 to 4,000 IU. Testing before supplementing is advisable; at-home fingerprick tests for 25-OH vitamin D have become widely available and inexpensive. Do not assume sufficiency. At latitudes above 50 degrees north, winter insufficiency is the norm regardless of dietary intake.
+
+**Calcium.** Women aged 19 to 50 require 1,000 milligrams of calcium per day from food and supplementation combined. Women over 50 require 1,200 milligrams. Men require 1,000 milligrams across the adult lifespan, increasing to 1,200 milligrams after age 70. These are not arbitrary bureaucratic recommendations. They represent the minimum calcium availability needed to prevent the body from catabolising its own skeletal calcium stores to meet other physiological demands. Rucking is an osteogenic stimulus. Calcium is the raw material that osteogenic stimuli use. A programme that provides the stimulus without providing the material is asking a builder to work with no concrete. Dairy foods, fortified plant milks, tofu set with calcium sulphate, sardines with bones, and almonds are practical sources. Absorption is impaired by very high-fibre meals, by vitamin D insufficiency, and by certain medications including proton pump inhibitors---a detail worth knowing if any of those conditions apply.
+
+**Iron.** Iron deficiency without anaemia---a state in which serum ferritin is low but haemoglobin remains within the normal range---is the most prevalent nutritional deficiency in premenopausal women in high-income countries. Its consequences for exercise performance are substantial and frequently underestimated: reduced oxygen-carrying capacity at the tissue level, impaired oxidative phosphorylation in working muscle, increased fatigue at submaximal loads, and reduced work capacity at VO2 max. Women who ruck regularly and who have not recently measured serum ferritin should do so. The target for athletic women is ferritin above 40 micrograms per litre, with values above 50 associated with optimal exercise performance. Values below 20 typically impair performance measurably even in the absence of clinical anaemia. Haem iron from animal sources has two to three times the bioavailability of non-haem iron from plant sources. Consuming vitamin C alongside plant-based iron sources meaningfully improves absorption. Avoiding tea and coffee in the 60 minutes around iron-containing meals reduces the inhibitory effect of polyphenols on iron absorption.
+
+**Zinc.** Zinc is involved in over 300 enzymatic reactions in the human body, and among these are several directly relevant to the goals of this programme: testosterone synthesis, protein synthesis, immune function, and wound healing. The recommended daily intake for men is 11 milligrams; for women, 8 milligrams. Sweat losses during prolonged exercise increase daily requirements modestly. Dietary zinc is concentrated in red meat, shellfish (oysters are the richest known dietary source), legumes, seeds, and nuts. The absorption of zinc from plant sources is reduced by phytate, the same antinutrient that impairs non-haem iron absorption---a relevant detail for athletes following predominantly plant-based dietary patterns, who should consider monitoring zinc status and supplementing if intake from food alone appears marginal.
+
+---
+
+## Sex-Specific Prescriptions
+
+The evidence on nutrition and exercise separates across biological sex in ways that are clinically meaningful, and any nutrition guidance that does not acknowledge this separation is providing incomplete care to at least half its audience.
+
+For men, the evidence-based nutritional prescription for a rucking programme at three to five sessions per week is as follows. Protein at 1.6 to 2.0 grams per kilogram of body weight per day, with no phase-cycling. Carbohydrate at 3 to 5 grams per kilogram of body weight on training days, 2 to 3 grams per kilogram on rest days. Total energy intake sufficient to maintain energy availability above 45 kcal/kg FFM/day on all days, without the artificial caloric restriction that fitness app defaults typically impose on anyone who selects "weight loss" as a goal. Vitamin D at minimum 2,000 IU supplemental daily, with testing to confirm status every six to twelve months. Zinc at minimum 11 milligrams daily from food, supplemented if dietary assessment suggests inadequate intake. Iron testing is not typically indicated for men unless clinical symptoms suggest deficiency; male iron stores are generally adequate given non-menstrual iron retention.
+
+For women before perimenopause, the prescription is structurally similar but with several additions. Protein at 1.6 grams per kilogram per day minimum, 1.8 to 2.0 grams per kilogram per day in the luteal phase. Carbohydrate at 3 to 5 grams per kilogram on training days, with deliberate attention to not cutting carbohydrates in the second half of the menstrual cycle---a common instinct in response to the bloating and appetite changes associated with the luteal phase that has the net effect of depressing energy availability precisely when it is most sensitive. Calcium at 1,000 milligrams daily from food and supplements combined. Vitamin D at 2,000 IU minimum supplemental. Iron: measure ferritin annually or biannually and treat deficiency as a performance variable, not merely a medical concern.
+
+For women in perimenopause---broadly defined as the five to ten years preceding menopause during which hormonal fluctuation is pronounced and the risk of accelerated bone loss is measurable---the prescription intensifies in its specificity. Protein at 1.8 to 2.0 grams per kilogram per day, consistently. Carbohydrates maintained, not cut, during high-stress periods. Calcium at 1,200 milligrams daily. Vitamin D at 2,000 to 4,000 IU supplemental depending on tested status. Resistance training, of which loaded carries are a primary component, should be performed at least twice weekly, as the osteogenic window during which trabecular bone responds most robustly to mechanical loading is narrowing in direct proportion to the decline in oestrogen. The nutritional prescription and the training prescription are inseparable. Neither is effective without the other.
+
+---
+
+## Panizzolo and the Metabolic Reality
+
+One of the most useful papers in the rucking literature for understanding caloric expenditure is Panizzolo and colleagues' 2016 investigation of metabolic power during military-style load carriage. Panizzolo's group measured oxygen consumption and metabolic rate directly in participants walking at various loads and speeds, and their data---consistent with the broader literature but more granular than most prior work---illustrated a principle that anyone designing their nutritional intake around a rucking programme must understand: the metabolic cost of load carriage does not scale linearly with load mass.
+
+A five-kilogram increase in pack weight from ten to fifteen kilograms produces a different increment in metabolic expenditure than the same five-kilogram increase from twenty to twenty-five kilograms, because as load increases, the body modifies its gait mechanics in ways that affect muscular recruitment patterns and therefore metabolic efficiency. The practical consequence is that caloric expenditure during rucking is higher than naive estimates based on walking equations predict, particularly at loads above twenty percent of body weight. The LCDA figures cited earlier in this chapter---the 490 to 550 kilocalories above rest for a seventy-five-minute session at twenty-seven percent body weight---are therefore estimates that should be treated as floors rather than ceilings when planning nutritional intake.
+
+This has a simple practical implication: err on the side of eating more rather than less. The physiological cost of under-eating on a day when you actually burned 520 kilocalories above rest is bone suppression, hormonal downregulation, and performance degradation. The physiological cost of eating slightly more than you burned on a rest day is negligible. The asymmetry of those two outcomes should determine the direction of any uncertainty in your estimates.
+
+---
+
+## Nutrition as Permission
+
+The emotional architecture of this chapter is worth naming directly.
+
+For many people who have spent years navigating the diet industry's messaging---eat less, resist more, count everything, trust nothing, treat your own hunger as adversarial---the message of energy availability science can land as disorienting. You are being told to eat more. You are being told that the caloric deficit you have been carefully maintaining may be actively undermining the body you are trying to build. You are being told that your hunger is not a weakness to be overcome but a signal to be honoured. You are being told that carbohydrates are not optional, that protein is a construction material rather than an indulgence, and that the breakfast you skipped to burn more fat may have suppressed your testosterone or disrupted your luteinising hormone pulse for the rest of the day.
+
+This information is not meant to produce anxiety. It is meant to produce relief.
+
+Nutrition science, stripped of its commercial overlay and its Instagram-adjacent complexity, is a remarkably simple discipline. The human body needs adequate energy. It needs protein to build and maintain tissue. It needs carbohydrates to fuel exercise and maintain hormonal function. It needs a handful of micronutrients in amounts that a varied, protein-centred, whole-food diet typically provides without supplementation except for vitamin D, which humans in northern latitudes genuinely cannot obtain from food alone. The complication is not the science. The complication is the industry that has grown up around the science, obscuring its simplicity with protocols, products, and prohibitions calibrated to create ongoing customer engagement rather than lasting metabolic health.
+
+Eat enough. That is the foundational prescription. Not eat enough of the right things in the right ratios at the right times according to a proprietary system that requires a subscription to maintain. Eat enough. More specifically: eat enough so that your energy availability stays above 45 kcal/kg FFM/day every day, not just the days when you feel virtuous. Eat enough protein to give your muscles and bones the raw materials they need to respond to the loads you are carrying. Eat enough carbohydrates to make the energy for those loads available, to suppress the cortisol spike that otherwise follows a hard session, and to signal to your hypothalamus that there is no famine in progress.
+
+The machine you are operating is three and a half million years old. It has survived every form of caloric scarcity the planet has produced. What it has not been designed to survive is voluntary self-imposed caloric restriction in the presence of a heavy training stimulus, which is an entirely novel evolutionary scenario for which it has no adaptive response except to shut down the systems it cannot afford to maintain. Do not make it do that.
+
+Feed the machine.
+
+---
+
+## The Practical Prescriptions, Collected
+
+The math is simple: if you do not eat, your bones cannot build. Here is your floor---the minimum nutritional conditions under which the physiological goals of rucking can actually be achieved. Not a programme. Not a diet. A floor.
+
+Energy availability: maintain above 45 kcal/kg FFM/day every day. On sessions generating 400 or more kilocalories of expenditure, this requires deliberate upward adjustment of daily intake, not compensation by reduction elsewhere.
+
+Protein: 1.6 to 2.0 grams per kilogram of total body weight per day. Women in the luteal phase and perimenopausal women: 1.8 to 2.0 grams consistently. Build every meal around a protein source.
+
+Carbohydrates: 3 to 5 grams per kilogram of body weight on training days. Do not skip pre-ruck fuel. Do not wait more than two hours post-ruck to consume a protein and carbohydrate meal.
+
+Vitamin D: test. If below 40 ng/mL, supplement at 2,000 to 4,000 IU daily. Retest in six to eight weeks.
+
+Calcium: 1,000 milligrams daily from food for men and premenopausal women; 1,200 milligrams for postmenopausal women and men over 70. Supplement only what food does not provide.
+
+Iron: premenopausal women should measure serum ferritin at minimum annually. Target above 40 micrograms per litre for athletic performance. Treat low ferritin as a performance variable.
+
+Zinc: 11 milligrams daily for men, 8 milligrams for women, from food. Supplement if dietary assessment suggests plant-dominant diets may be falling short.
+
+That is the prescription. Seven items. None of them require a nutritionist, a continuous glucose monitor, a food scale accurate to the gram, or a subscription. They require a baseline level of dietary attention and a willingness to eat more than the app is telling you to eat.
+
+The pack is on your back. The trail is in front of you. The machine needs fuel.
+
+Give it what it needs.

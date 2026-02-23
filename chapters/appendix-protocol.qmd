@@ -1,0 +1,582 @@
+# Appendix: The Complete Rucking Longevity Protocol {.unnumbered}
+
+*This appendix reformats the full protocol as a practical reference. Bookmark it. Return to it. Carry it in your pack.*
+
+---
+
+## Evidence Foundation
+
+This protocol is built on five converging lines of evidence:
+
+1. **Evolutionary biomechanics.** Homo sapiens is a specialised load-carrier. Bipedalism co-selected with long-distance weighted travel (Carvalho et al. 2012; Bramble & Lieberman 2004). Torso-centred backpack loading is the most metabolically efficient carrying method in any primate (Wall-Scheffler 2007).
+
+2. **Osteogenic loading.** The osteogenic threshold during walking requires approximately 25--30% bodyweight load at $\geq$1.5 m/s, producing ~1.4--1.7$\times$ BW ground reaction force. Unloaded walking (~1.0--1.5$\times$ BW GRF) falls below this threshold; running (~2.0--2.9$\times$ BW GRF) exceeds it with an injurious impact transient (Nilsson & Thorstensson 1989; Sánchez-Trigo et al. 2022).
+
+3. **Hormonal preservation.** Men running >81 km/week show chronically suppressed testosterone versus sedentary controls at all time points (Hooper et al. 2017; p $\leq$ 0.05)---the Exercise-Hypogonadal Male Condition. Rucking as a Zone 2/resistance hybrid avoids the training volume threshold that triggers EHMC. Farmer's walks produce significant acute testosterone elevation (p < 0.01; Gaviglio et al. 2015). Elite military men under regular load carriage maintain testosterone profiles comparable to recreational weightlifters (Taylor et al. 2016).
+
+4. **Biomechanical completeness.** The five-movement system covers all three planes of motion, diurnal spinal compression/decompression, grip endurance, scapular health, and full hip/knee/ankle ROM. Chronic load carriage training (30% BW, 20 days) increases paraspinal muscle CSA from 9126 $\pm$ 692 mm² to 9863 $\pm$ 456 mm² and produces measurable parasympathetic cardiovascular adaptation (Qu et al. 2020; Lowe et al. 2025).
+
+5. **Nasal breathing as intensity regulator.** At submaximal rucking intensities, nasal-only breathing reduces minute ventilation by ~22%, lowers VE/VCO₂ from 28.6 to 25.8 (Eser et al. 2024; p $\leq$ 0.01), reduces blood lactate from 1.45 to 1.21 mmol/L (Rappelt et al. 2023; p = 0.02), and delivers paranasal sinus NO (300--30,000 ppb) to the pulmonary vasculature.
+
+---
+
+## The Five Movements
+
+| Movement | Primary Stimulus | Plane | Frequency |
+|----------|-----------------|-------|-----------|
+| **Rucking** | Zone 2 cardio + osteogenic loading + posterior chain | Sagittal | 3--4$\times$/week |
+| **Farmer carries** | Frontal-plane loading, grip, core stability, T/C ratio | Frontal + sagittal | 2$\times$/week |
+| **Dead hangs** | Traction decompression, grip strength, shoulder health | Vertical | Daily |
+| **Push-ups** | Anterior chain, scapular protraction counterbalance | Sagittal | Daily |
+| **Deep squat** | Full hip/knee/ankle ROM, synovial distribution | All three | Daily |
+
+: The five movements of the Rucking Longevity Protocol {#tbl-five-movements}
+
+---
+
+## The Akureyri Protocol: Nasal Breathing Rules
+
+Apply throughout all rucking sessions:
+
+::: {.callout-important}
+## The Rule
+Nasal inhalation and exhalation only. Mouth never opens. If you cannot maintain nasal breathing, slow pace or reduce load until you can. This is not optional---it is the intensity regulator.
+:::
+
+**Adaptation timeline:** Non-adapted individuals lose ~10% VO₂max during nasal restriction. This disappears after $\geq$6 months of consistent practice (Dallam 2018). Expect 4--8 weeks of discomfort before steady state feels natural.
+
+**Humming on exhale** (optional): Increases nasal sinus NO output ~15-fold (Weitzberg & Lundberg 2002)---beneficial during warm-up walks.
+
+**Progression gate:** Only increase load or pace when you can complete the full session without breaking nasal breathing.
+
+### Nasal Breathing Evidence Summary
+
+| Parameter | Nasal | Oral/Oronasal | Result | Source |
+|-----------|-------|---------------|--------|--------|
+| Paranasal sinus NO | 300--30,000 ppb | Bypassed (0) | --- | Lundberg et al. |
+| HF-HRV (%) | 59 $\pm$ 19 | 52 $\pm$ 21 | d = 0.50, p = 0.04 | Deus et al. 2024 |
+| LF/HF ratio | 0.9 $\pm$ 0.8 | 1.2 $\pm$ 0.9 | d = 0.49, p = 0.04 | Deus et al. 2024 |
+| Diastolic BP (mmHg) | 68 | 72 | r = 0.89, p < 0.001 | Deus et al. 2024 |
+| PETCO₂ (mmHg) | 43.5 | 41.5 | p < 0.001, ηp² = 0.46 | Rappelt et al. 2023 |
+| VE/VCO₂ | 25.8 | 28.6 | p $\leq$ 0.01 | Eser et al. 2024 |
+| Blood lactate T60 (mmol/L) | 1.21 $\pm$ 0.47 | 1.45 $\pm$ 0.52 | SMD = 0.48, p = 0.02 | Rappelt et al. 2023 |
+| HR post-exercise, males (bpm) | 123.2 $\pm$ 15.8 | 127.7 $\pm$ 16.9 | d = 0.32, p = 0.033 | Lörinczi et al. 2024 |
+| Cortisol reduction | --30.29% | baseline | p < 0.05 | Obaya et al. 2023 |
+| SpO₂ during exercise | ~98% | ~98% | ns | Lörinczi et al. 2024 |
+
+: Akureyri Protocol evidence table {#tbl-nasal-evidence}
+
+::: {.callout-note}
+The blood lactate and VE/VCO₂ effects are the most robust. RER fat-oxidation shift is present in walking-specific research but not consistently replicated in cycling. Nasal breathing's primary metabolic value during rucking is as an intensity governor that prevents Zone 3 drift.
+:::
+
+---
+
+## Plan A: Male Protocol (41-Year-Old Anchor)
+
+### Physiological Context
+
+A 41-year-old male is in early andropause-adjacent decline: testosterone decreases approximately 1--2% per year from age 30. The central risk is EHMC: men running >81 km/week show chronic testosterone suppression at all time points (Hooper et al. 2017). High-volume chronic endurance training is specifically contraindicated for hormonal longevity.
+
+**Primary goals:**
+
+1. Preserve testosterone/cortisol ratio---avoid EHMC trigger volume
+2. Achieve and maintain osteogenic loading threshold
+3. Maintain diurnal spinal decompression
+4. Build Zone 2 cardiovascular base without inflammatory cortisol load
+5. Sustain grip and posterior chain strength
+
+### Weekly Structure
+
+```
+MON   Ruck (Zone 2, nasal, 45–60 min)
+TUE   Farmer carries + Dead hangs + Push-ups + Deep squat
+WED   Rest or light walk (no load)
+THU   Ruck (Zone 2, nasal, 45–60 min) + Farmer carries superset
+FRI   Dead hangs + Push-ups + Deep squat (10 min maintenance)
+SAT   Ruck (Zone 2, nasal, 60–90 min — longest session)
+SUN   Rest — dead hangs optional, deep squat daily
+```
+
+### Rucking Prescription (Male)
+
+| Parameter | Phase 1 (Wk 1--4) | Phase 2 (Wk 5--12) | Phase 3 (Mo 4--6) | Maintenance |
+|-----------|-------------------|--------------------|--------------------|-------------|
+| Load (% BW) | 10--15% | 18--22% | 25--30% | 25--30% |
+| Load (kg at 80 kg) | 8--12 kg | 14--18 kg | 20--24 kg | 20--24 kg |
+| Speed | Nasal-constrained | Nasal-constrained | $\geq$1.5 m/s | $\geq$1.5 m/s |
+| Duration | 30--45 min | 45--60 min | 60--90 min | 60--90 min |
+| Frequency | 2$\times$/week | 3$\times$/week | 3--4$\times$/week | 3--4$\times$/week |
+| Breathing | Nasal mandatory | Nasal mandatory | Nasal mandatory | Nasal mandatory |
+
+: Male rucking progression {#tbl-male-ruck}
+
+**Load progression rule:** Add no more than 2 kg or 10% per 2-week block. If nasal breathing collapses at new load, stay at prior load for another 2 weeks.
+
+### Intensity Verification
+
+Any of these confirms Zone 2:
+
+- Nasal breathing comfortable throughout
+- Can speak full sentences with minor breathlessness
+- RPE 11--14/20 (Borg scale)
+- Heart rate 60--75% HRmax (at age 41: HRmax $\approx$ 179 bpm → Zone 2: 107--134 bpm)
+- Blood lactate < 2 mmol/L
+
+### Farmer Carries (Male)
+
+| Parameter | Prescription |
+|-----------|-------------|
+| Load (each hand) | 25--40% BW total (12--20 kg/hand at 80 kg) |
+| Distance | 30--50 m per set |
+| Sets | 3--5 |
+| Rest | 90 seconds |
+| Cadence | Slow, deliberate---upright spine |
+| Progression | +2--4 kg total per month |
+
+### Session Timing
+
+Morning sessions are superior for hormonal longevity. Salivary testosterone is highest within the first hour after awakening (Taylor et al. 2016).
+
+- **Preferred window:** Within 2 hours of waking
+- **Post-session:** Protein + carbohydrate within 30 minutes
+- **Pre-session:** Avoid fasting >12 hours before a ruck
+
+### Male Nutrition Minimums
+
+| Parameter | Target | Rationale |
+|-----------|--------|-----------|
+| Protein | $\geq$1.6--2.0 g/kg/day | Sarcopenia prevention |
+| Energy availability | $\geq$45 kcal/kg FFM/day | Below this, testosterone declines |
+| Post-ruck carbs | Within 30 min | Glycogen resynthesis |
+| Vitamin D | $\geq$2000 IU/day | Testosterone + bone metabolism |
+| Zinc | $\geq$11 mg/day | Aromatase inhibition |
+
+: Male nutrition targets {#tbl-male-nutrition}
+
+---
+
+## Plan B: Female Protocol (41-Year-Old Anchor)
+
+### Physiological Context
+
+A 41-year-old woman is in perimenopause onset territory. The critical window for BMD intervention is now. Studies of women with osteopenia/osteoporosis show effect sizes of SMD 0.73--0.85 at spine and femoral neck with weight-bearing exercise (Sánchez-Trigo et al. 2022).
+
+::: {.callout-warning}
+## Female-Specific PFJ Risk
+Willy et al. (2025) demonstrated that females exhibit significantly greater peak, per-step impulse, and cumulative patellofemoral joint stress than males during load carriage (sex $\times$ load interaction p = 0.002--0.005, ηp² = 0.12--0.13), even after controlling for body mass, height, and quadriceps strength. Load progression must be more conservative for women.
+:::
+
+**Primary goals:**
+
+1. Achieve osteogenic loading threshold---most time-sensitive intervention
+2. Preserve or build lean mass against oestrogen decline
+3. Maintain pelvic floor competence
+4. Establish Zone 2 metabolic base
+5. Ensure energy availability---RED-S is a genuine risk
+
+### Rucking Prescription (Female)
+
+| Parameter | Phase 1 (Wk 1--4) | Phase 2 (Wk 5--12) | Phase 3 (Mo 4--6) | Maintenance |
+|-----------|-------------------|--------------------|--------------------|-------------|
+| Load (% BW) | 10--15% | 18--22% | 25--30% | 25--30% |
+| Load (kg at 65 kg) | 6--10 kg | 12--14 kg | 16--20 kg | 16--20 kg |
+| Speed | Nasal-constrained | $\geq$1.3 m/s | $\geq$1.5 m/s | $\geq$1.5 m/s |
+| Cadence | Self-selected | 100--110 spm | 110--120 spm | 110--120 spm |
+| Duration | 30--45 min | 45--60 min | 45--75 min | 45--75 min |
+| Frequency | 2$\times$/week | 3$\times$/week | 3--4$\times$/week | 3$\times$/week |
+
+: Female rucking progression {#tbl-female-ruck}
+
+::: {.callout-tip}
+## Cadence Note
+120 spm cadence during rucking attenuates peak vertical GRF---the single most protective adaptation for female-specific stress fracture risk. Use a metronome app for the first 4--6 weeks.
+:::
+
+**Female-specific load progression:** +2 kg per **3-week** block (versus 2-week for males). Joint pain is a hard stop.
+
+### Pelvic Floor Considerations
+
+Rucking at walking pace generates IAP comparable to standing from a chair---the lowest-risk activity profile. Primary risk factors for pelvic organ prolapse are parity and age, not exercise modality. Nasal diaphragmatic breathing simultaneously manages IAP via reflex co-contraction.
+
+**For women with pelvic floor symptoms:**
+
+- Reduce cadence and pace until symptoms absent
+- Reduce load by 5% BW and rebuild slowly
+- Prioritise diaphragmatic breathing
+- Avoid breath-holding (Valsalva) during any loaded movement
+
+### Female Nutrition (Non-Negotiable)
+
+| Parameter | Target | Rationale |
+|-----------|--------|-----------|
+| Energy availability | **$\geq$45 kcal/kg FFM/day** | Below this, bone resorption exceeds formation |
+| Protein | **$\geq$1.6 g/kg/day** (ideally 1.8--2.0) | MPS declines with oestrogen loss |
+| Calcium | 1000--1200 mg/day | From food preferred |
+| Vitamin D | $\geq$2000 IU/day | Calcium absorption co-factor |
+| Iron | Monitor serum ferritin | Ferritin < 30 µg/L impairs performance |
+| Carbohydrate | $\geq$3--5 g/kg/day on ruck days | Supports energy availability |
+
+: Female nutrition targets {#tbl-female-nutrition}
+
+### Caloric Expenditure Reference (65 kg Female)
+
+| Session | Load | Kcal Above Rest |
+|---------|------|-----------------|
+| 45 min ruck | 15% BW | ~215--240 kcal |
+| 60 min ruck | 20% BW | ~340--380 kcal |
+| 60 min ruck | 27% BW | ~390--440 kcal |
+| 75 min ruck | 27% BW | ~490--550 kcal |
+
+: Caloric expenditure estimates, 65 kg female {#tbl-female-calories}
+
+::: {.callout-warning}
+## RED-S Warning
+A 60-min ruck at 27% BW expends ~390--550 kcal. This is not optional extra intake---it is mandatory replenishment. Track weekly ruck distance increases alongside caloric intake increases.
+:::
+
+---
+
+## Age Scaling Guide
+
+### Scaling Principles
+
+1. **Load before speed**---achieving osteogenic threshold at lower speeds is safer
+2. **Nasal breathing is the universal intensity cap**---self-scales to fitness at any age
+3. **Recovery scales faster than decline**---in older cohorts, recovery matters more than intensity
+4. **Minimum effective dose exists**---30 min $\times$ 3$\times$/week at 15--20% BW is the floor
+
+### Decade-by-Decade Parameters
+
+| Age Band | Max Load (% BW) | Speed | Sessions/Wk | Duration | Priority |
+|----------|----------------|-------|-------------|----------|----------|
+| **18--29** | 30--45% | 1.5--2.0 m/s | 4--5 | 45--90 min | Build bone bank |
+| **30--39** | 25--35% | 1.5--2.0 m/s | 3--4 | 45--75 min | Maintain BMD |
+| **40--49** | 25--30% | $\geq$1.5 m/s | 3--4 | 45--75 min | Hormonal longevity |
+| **50--59** | 20--28% | 1.3--1.8 m/s | 3 | 40--60 min | Osteoporosis prevention |
+| **60--69** | 15--22% | 1.2--1.6 m/s | 3 | 30--60 min | Fall prevention |
+| **70--79** | 10--18% | 1.0--1.4 m/s | 2--3 | 30--45 min | Functional strength |
+| **80+** | 8--12% | Comfortable | 2--3 | 20--40 min | Ambulatory independence |
+
+: Decade-by-decade scaling parameters {#tbl-decades}
+
+### Sex-Specific Modifiers
+
+| Life Phase | Female | Male |
+|------------|--------|------|
+| **Perimenopause** (45--52) | +0.2 g/kg/day protein; reduce max load 5% during high-symptom weeks; prioritise calcium | Watch T/C ratio if adding endurance volume |
+| **Post-menopause** (52+) | Osteogenic threshold absolute priority; PFJ protective cadence (110--120 spm) | Consider testosterone evaluation before high-volume increase |
+| **65+** | Minimum dose: 30 min $\times$ 3/week at 15% BW; lighter farmer carries (5--10 kg/hand) | Same minimum dose; grip strength and VO₂max are leading mortality predictors |
+
+: Sex-specific scaling modifiers {#tbl-sex-modifiers}
+
+### Load Progression Formula (All Ages)
+
+```
+Starting load:   10% BW (always — regardless of fitness)
+Progression:     +2 kg per 2 weeks (males) / 3 weeks (females)
+                 IF nasal breathing remains easy throughout
+Target load:     Age-band maximum (see table)
+Deload trigger:  Joint pain, nasal breathing failing, soreness > 48h
+Deload protocol: Reduce load 20%, maintain frequency, 2 weeks
+```
+
+---
+
+## Movement Execution Standards
+
+### Rucking Form
+
+- Pack sits high, centred; hip belt loaded at iliac crest
+- Shoulders retracted, not rounded forward
+- Head neutral---ears over shoulders. *At 25% BW, forward trunk lean increases ~14° and forward head posture ~13° (Dahl et al. 2016); conscious correction required.*
+- Stride shorter than unloaded; cadence compensates for speed
+- Footwear: trail shoes or boots with ankle support at $\geq$20% BW
+
+### Farmer Carry Form
+
+- Neutral spine throughout---no lateral lean permitted
+- Chest tall, not collapsed
+- Arms straight---no bicep involvement
+- Deliberate pace---loaded march, not shuffle
+
+### Dead Hang Standards
+
+- Full grip---not fingerboard
+- Shoulders packed (slight depression/retraction)
+- Breathe: long nasal inhales, slow nasal exhales
+- Full bodyweight---feet off ground
+
+| Phase | Target | Added Load |
+|-------|--------|-----------|
+| Beginner | 2 $\times$ 20 s/day | BW only |
+| Intermediate | 2 $\times$ 40 s/day | BW only |
+| Advanced | 3 $\times$ 60 s/day | BW only |
+| Loaded | 2 $\times$ 30 s/day | +5--10 kg belt |
+| Maintenance | 2 $\times$ 30 s, varied grip | +10--20 kg |
+
+: Dead hang progression {#tbl-dead-hang}
+
+::: {.callout-tip}
+Dead hangs are most effective within 60 minutes of a ruck---spinal loading followed by traction decompression.
+:::
+
+### Push-Up Standards
+
+- Full protraction at top; full retraction at bottom
+- Chest touches floor
+- Elbows 30--45° from torso
+- Posterior pelvic tilt throughout
+- 3--5 sets, 2 reps short of failure, daily
+- Tempo: 3-1-1 (eccentric-pause-concentric)
+
+### Deep Squat Standards
+
+- Feet shoulder-width, toes 10--30° external rotation
+- Heels flat (or 1--2 cm elevation while mobility develops)
+- **Active/passive hybrid:** Maintain ~10--15% volitional co-contraction of quadriceps, gluteals, and transversus abdominis
+- 2--5 min accumulated holds per day
+- Nasal diaphragmatic breathing throughout
+- Cue: *"Hold like you are balancing a glass of water on each knee."*
+
+::: {.callout-warning}
+**Contraindication:** Acute meniscal tear, posterior cruciate ligament insufficiency, or Grade III--IV patellofemoral chondropathy---consult a physiotherapist before end-range loaded flexion.
+:::
+
+---
+
+## Recovery Monitoring
+
+### HRV Protocol
+
+| Metric | Positive | Warning |
+|--------|----------|---------|
+| Resting RMSSD (morning, supine) | Stable or trending up | Declining >20% below 7-day average, 2+ consecutive days |
+| HF-HRV (%) | Trending higher | Prolonged suppression |
+| Resting HR | Stable or declining | Elevated >5 bpm above rolling average |
+| Nasal breathing | Easier at same load | Not improving after 8 weeks |
+
+: HRV recovery markers {#tbl-hrv}
+
+**Tools:** Consumer HRV apps (HRV4Training, Elite HRV) with a 60-second morning measurement, supine, before rising.
+
+### Subjective Markers
+
+| Signal | Response |
+|--------|----------|
+| Muscle soreness > 48h | Rest; do not ruck until resolved |
+| Persistent fatigue | Evaluate energy availability |
+| Motivation collapse | Likely hormonal; reduce volume 25% for 1--2 weeks |
+| Grip strength decline | Systemic fatigue; deload week |
+
+: Subjective recovery markers {#tbl-subjective}
+
+**Deload protocol:** Every 4th week, reduce load 20% and duration 25%. Maintain frequency. This is when structural adaptation occurs.
+
+---
+
+## Minimum Viable Protocol
+
+For the time-constrained beginner:
+
+| Movement | Frequency | Duration |
+|----------|-----------|---------|
+| Ruck | 3$\times$/week | 30 min at 15--20% BW, nasal |
+| Dead hangs | Daily | 2 $\times$ 20 s |
+| Deep squat | Daily | 2 min accumulated |
+
+: Minimum viable protocol {#tbl-mvp}
+
+**Total weekly investment: ~100 minutes.** This is the floor. Below this, osteogenic and cardiovascular benefits are unlikely to accumulate.
+
+---
+
+## Red Flags: Stop and Assess {.unnumbered}
+
+**Read this section carefully. Return to it if anything feels wrong. These criteria exist to keep you training for decades, not weeks.**
+
+::: {.callout-warning}
+## Stop Training If:
+
+- **Joint pain** (not muscle soreness) during or after rucking → reduce load 25%, assess gait
+- **Shin pain** with rucking (tibial stress) → reduce load, reduce speed, assess footwear
+- **Pelvic floor symptoms** (leakage, pressure) during rucking → reduce load, assess breathing
+- **Persistent fatigue** >72h after sessions → energy deficit; increase calories before reducing training
+- **Nasal breathing never improves** after 12 weeks → assess for nasal polyps, deviated septum, rhinitis
+- **Male: libido decline, morning erection changes** → testosterone panel warranted; evaluate EHMC
+- **HRV declining** >2 consecutive weeks → structured deload and nutritional audit
+:::
+
+---
+
+## Load Reference Tables
+
+### Table A1: Rucking Load by Body Weight
+
+*All values in kilograms. Phase values are targets by end of phase. Begin every phase at lower bound.*
+
+::: {.callout-tip}
+## Mobile & E-Reader Reference
+For quick field reference: multiply your body weight by 0.10 (Phase 1), 0.20 (Phase 2), or 0.27 (Phase 3). Round down to nearest half-kilogram.
+:::
+
+| BW (kg) | Phase 1 (10%) | Phase 2 (20%) | Phase 3 (27%) | Min. Effective (15%) |
+|---------|--------------|--------------|--------------|---------------------|
+| 50 | 5.0 | 10.0 | 13.5 | 7.5 |
+| 55 | 5.5 | 11.0 | 15.0 | 8.0 |
+| 60 | 6.0 | 12.0 | 16.0 | 9.0 |
+| 65 | 6.5 | 13.0 | 17.5 | 10.0 |
+| 70 | 7.0 | 14.0 | 19.0 | 10.5 |
+| 75 | 7.5 | 15.0 | 20.0 | 11.0 |
+| 80 | 8.0 | 16.0 | 21.5 | 12.0 |
+| 85 | 8.5 | 17.0 | 23.0 | 13.0 |
+| 90 | 9.0 | 18.0 | 24.5 | 13.5 |
+| 95 | 9.5 | 19.0 | 25.5 | 14.0 |
+| 100 | 10.0 | 20.0 | 27.0 | 15.0 |
+| 110 | 11.0 | 22.0 | 30.0 | 16.5 |
+| 120 | 12.0 | 24.0 | 32.5 | 18.0 |
+
+: Rucking load by body weight {#tbl-load-bw}
+
+### Table A2: Farmer Carry Load by Body Weight
+
+*Total across both hands = 25--30% BW. Values below represent each hand (~13% BW per hand).*
+
+| BW (kg) | Each Hand | Implement | 1-Year Target |
+|---------|-----------|-----------|---------------|
+| 50 | 6.5 kg | 2 $\times$ 7 kg KB | 10 kg |
+| 60 | 8.0 kg | 2 $\times$ 8 kg KB | 14 kg |
+| 70 | 9.0 kg | 2 $\times$ 10 kg KB | 18 kg |
+| 80 | 10.5 kg | 2 $\times$ 12 kg KB | 22 kg |
+| 90 | 11.5 kg | 2 $\times$ 14 kg KB | 26 kg |
+| 100 | 13.0 kg | 2 $\times$ 16 kg KB | 30 kg |
+
+: Farmer carry load reference {#tbl-farmer-load}
+
+### Table A3: Age-Band Load Multipliers
+
+*Apply to Phase 3 target from Table A1.*
+
+| Age Band | Multiplier | Example (80 kg) |
+|----------|-----------|-----------------|
+| 18--29 | 1.0--1.15 | 21.5--24.7 kg |
+| 30--39 | 1.0 | 21.5 kg |
+| 40--49 | 1.0 | 21.5 kg |
+| 50--59 | 0.85--0.90 | 18.3--19.4 kg |
+| 60--69 | 0.70--0.80 | 15.1--17.2 kg |
+| 70--79 | 0.55--0.70 | 11.8--15.1 kg |
+| 80+ | 0.40--0.55 | 8.6--11.8 kg |
+
+: Age-band load adjustment multipliers {#tbl-age-multiplier}
+
+### Table A4: Caloric Expenditure Reference
+
+*Kilocalories above resting metabolic rate. Add BMR for total daily requirement.*
+
+| Load (% BW) | Speed (m/s) | 45 min (65 kg) | 45 min (80 kg) | 60 min (65 kg) | 60 min (80 kg) | 90 min (80 kg) |
+|-------------|-------------|----------------|----------------|----------------|----------------|----------------|
+| 10% | 1.3 | ~155 | ~190 | ~205 | ~255 | ~380 |
+| 15% | 1.4 | ~190 | ~235 | ~255 | ~315 | ~470 |
+| 20% | 1.5 | ~225 | ~280 | ~300 | ~370 | ~555 |
+| 27% | 1.5 | ~260 | ~320 | ~350 | ~430 | ~645 |
+| 27% | 1.7 | ~295 | ~365 | ~395 | ~485 | ~730 |
+
+: Caloric expenditure reference (Looney et al. 2024; Panizzolo et al. 2016) {#tbl-calories}
+
+---
+
+## The Adaptation Timeline
+
+| Phase | Duration | What Happens |
+|-------|----------|-------------|
+| **Nasal adaptation** | Weeks 1--8 | Discomfort, pace drops 20--30%. Normal. Do not abort. |
+| **Load tolerance** | Weeks 4--12 | Posterior chain strengthens; paraspinal CSA increases |
+| **Osteogenic accumulation** | Months 3--6 | BMD response begins; not yet measurable |
+| **Hormonal steady state** | Months 2--4 | T/C ratio stabilises |
+| **Cardiovascular adaptation** | Months 1--3 | Parasympathetic HRV metrics increase (p < 0.03) |
+| **Full adaptation** | Month 6+ | Nasal breathing at target load feels natural |
+| **Longevity dividend** | Years 3--5+ | BMD gains measurable by DEXA; grip maintained |
+
+: Adaptation timeline {#tbl-adaptation}
+
+---
+
+## Evidence Gaps
+
+| Claim | Evidence Status | Gap |
+|-------|----------------|-----|
+| Rucking vs running testosterone | Indirect inference | Direct crossover RCT needed |
+| IVD hydration from rucking | No direct evidence | Prospective MRI studies needed |
+| Women 40--60+ biomechanics | Critical gap | Dedicated gait analysis needed |
+| Min. dose for dynapenia 65+ | No RCT exists | Dose-response study needed |
+| Nasal breathing + rucking | Mechanistic inference | Crossover study needed |
+| RER/fat oxidation | Mixed evidence | Walking-specific RER studies needed |
+| Chronic CV in older ruckers | Minimal | RCTs in 50+ needed |
+
+: Evidence gaps and research priorities {#tbl-gaps}
+
+::: {.callout-note}
+This protocol is evidence-based, not evidence-complete. Every prescription represents the best available inference from mechanistically adjacent science. Where direct evidence is absent, recommendations are conservative and erring toward safety.
+:::
+
+---
+
+## References
+
+### Evolutionary Biomechanics
+
+**[1]** Bramble DM, Lieberman DE. Endurance running and the evolution of Homo. *Nature*. 2004;432(7015):345--352.
+
+**[2]** Carvalho S, Cunha E, Sousa C, Matsuzawa T. Chimpanzee carrying behaviour and the origins of human bipedality. *Current Biology*. 2012;22(6):R180--R181.
+
+**[3]** Wall-Scheffler CM, Geiger K, Steudel-Numbers KL. Infant carrying: the role of increased locomotory costs in early tool development. *Am J Phys Anthropol*. 2007;133(2):841--846.
+
+### Ground Reaction Forces
+
+**[4]** Nilsson J, Thorstensson A. Ground reaction forces at different speeds of human walking and running. *Acta Physiol Scand*. 1989;136(2):217--227.
+
+### Bone Health
+
+**[5]** Snow CM, Shaw JM, Winters KM, Witzke KA. Long-term exercise using weighted vests prevents hip bone loss in postmenopausal women. *J Gerontol Med Sci*. 2000;55(9):M489--M491.
+
+**[6]** Sánchez-Trigo H et al. Exercise and postmenopausal bone mineral density: a systematic review and meta-analysis. *Ann Phys Rehabil Med*. 2022;65(5):101570.
+
+**[7]** Holtzman B, Ackerman KE. Recommendations and nutritional considerations for female athletes. *Sports Med*. 2021;51(Suppl 1):43--57.
+
+### Hormonal Health
+
+**[8]** Hackney AC. Effects of endurance exercise on the reproductive system of men: the "exercise-hypogonadal male condition." *J Endocrinol Invest*. 2008;31(10):932--938.
+
+**[9]** Hooper DR et al. The presence of the exercise hypogonadal male condition. *Eur J Appl Physiol*. 2017;117(8):1623--1631.
+
+### Nasal Breathing
+
+**[10--14]** Lundberg et al. 1994; Törnberg et al. 2002; Weitzberg & Lundberg 2002; Sánchez-Crespo et al. 2010; Settergren et al. 1998.
+
+**[15--20]** Dallam 2018; LaComb 2017; Rappelt et al. 2023; Recinto et al. 2017; Morton et al. 1995; Eser et al. 2024.
+
+**[21--22]** Watso et al. 2023; Ma et al. 2017.
+
+### Diaphragm and Spinal Stabilisation
+
+**[23--29]** Hodges et al. 1997, 2001, 2005; Kolar et al. 2012; Cholewicki et al. 1999; Trevisan et al. 2015; Cresswell & Thorstensson 1994.
+
+### Squat Biomechanics
+
+**[30--33]** Escamilla 2001; Komistek et al. 2003; Englund et al. 2008; Kolar et al. 2009.
+
+### Disc Health
+
+**[34]** Onodera et al. 2019. **[45]** Vergroesen et al. 2015. **[50]** Qu et al. 2020.
+
+### Additional Sources
+
+**[35--36]** Deus et al. 2024; Lörinczi et al. 2024. **[37--39]** Gaviglio et al. 2015; Kraemer et al. 1999; Taylor et al. 2016. **[40]** Lowe et al. 2025. **[41]** Willy et al. 2025. **[42]** Looney et al. 2024. **[43--44]** Santos et al. 2021; Walsh & Low 2021. **[46]** Xu et al. 2016. **[47--49]** Obaya et al. 2023; Örün 2022; Masroor et al. 2023. **[51]** Beckner et al. 2021.
+
+---
+
+*This appendix synthesises evidence from peer-reviewed literature. It is a protocol paper---not a clinical prescription. All exercise recommendations should be interpreted in light of individual health status, contraindications, and qualified supervision where applicable. Where evidence is indirect or extrapolated, this is explicitly stated.*
+
+*Evidence base: 11 AI-assisted literature reviews, 51 primary references.*
+
+*Full references with DOIs available in the main bibliography.*
