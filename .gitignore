@@ -26,6 +26,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Internal plans
+MARKETING_PLAN.md
+
 # Editor files
 *.swp
 *.swo

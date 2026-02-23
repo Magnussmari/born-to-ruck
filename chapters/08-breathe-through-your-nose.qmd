@@ -30,6 +30,8 @@ The Akureyri Protocol, as it eventually became codified in my own training pract
 
 The reasons for the rule are what this chapter is about.
 
+A note for anyone reading this on day one of rucking, or day one of any serious training: if nasal breathing under load feels impossible right now, that is not a sign you are doing something wrong. It is a sign that CO₂ tolerance is a trainable variable, and yours has not yet been trained. The body's hypercapnic drive---the reflex that demands you open your mouth and ventilate harder when CO₂ rises---is calibrated by exposure. Consistent nasal-only breathing recalibrates it within two to four weeks of regular practice, as the chemoreceptors adjust to the slightly elevated PETCO₂ that nasal resistance produces and stop interpreting it as an emergency. You will get there. The nose adapts. The practical ramp is this: begin with nasal breathing at rest, only, for several days; then during unloaded walks; then with light load, roughly five percent of body weight; then with moderate load. When you can complete a full session at ten percent of body weight without breaking nasal breathing, you are ready to begin progressive load increases under the protocol. If nasal breathing is mechanically obstructed rather than merely undertrained---a deviated septum, chronic allergic congestion, polyps, or structural narrowing from previous injury---no amount of CO₂ tolerance training will resolve the underlying anatomy. That warrants assessment by an ear, nose, and throat specialist before you treat nasal breathing as a training variable. The protocol assumes functional nasal passages. If yours are not functional, address that first.
+
 ---
 
 ## What the Sinuses Are Actually For
@@ -259,5 +261,5 @@ Mouth closed. Pack on. Begin.
 
 **Humming Warm-Up:** 1--2 minutes of nasal humming before sessions. Increases sinus NO output ~15-fold.
 
-**The Gate:** Only increase load or pace when you can complete the full session without breaking nasal breathing.
+**The Gate:** Only increase load or pace when you can complete the full session without breaking nasal breathing. Beginners: reach the gate by progressing through rest, then unloaded walks, then light load (~5% BW), then 10% BW before adding more. CO₂ tolerance improves within 2--4 weeks. You will reach the gate. Move through it when you do.
 :::

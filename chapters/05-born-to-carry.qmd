@@ -10,7 +10,7 @@ It is not running.
 
 It is not fleeing a predator. It is not pursuing prey. It is walking from one place to another at a speed that modern exercise physiologists would classify as Zone 2---sustainable, aerobic, hour-capable. And in its hands, cradled against its body or balanced on one arm while the other stabilises its gait, it is carrying something.
 
-This is not a metaphor. The Laetoli footprints, preserved in volcanic ash in what is now Tanzania and dated to approximately 3.6 million years ago, record the gaits of australopithecines moving across a landscape at walking pace. The foot anatomy is clear in the impressions: a non-divergent hallux---the big toe aligned with the others rather than splayed outward for grasping, as in chimpanzees---and a modest arch, not the full plantar vault of modern humans but sufficient to indicate a walking gait rather than a climbing or brachiation-adapted foot. These creatures were committed walkers. They were upright before they were runners. They were striding across Africa before the Achilles tendons, nuchal ligaments, and enlarged gluteus maximi of *Homo erectus* would appear in the fossil record, a full million years later, to enable something faster.
+The Laetoli footprints, preserved in volcanic ash in what is now Tanzania and dated to approximately 3.6 million years ago, record the gaits of australopithecines moving across a landscape at walking pace. The foot anatomy is clear in the impressions: a non-divergent hallux---the big toe aligned with the others rather than splayed outward for grasping, as in chimpanzees---and a modest arch, not the full plantar vault of modern humans but sufficient to indicate a walking gait rather than a climbing or brachiation-adapted foot. These creatures were committed walkers. They were upright before they were runners. They were striding across Africa before the Achilles tendons, nuchal ligaments, and enlarged gluteus maximi of *Homo erectus* would appear in the fossil record, a full million years later, to enable something faster.
 
 The first chapter of the human story is not running. It is walking with a load.
 
@@ -22,7 +22,7 @@ Carvalho and her colleagues had been working with chimpanzees in Bossou, Guinea-
 
 The answer they found was this: when chimpanzees carry objects of perceived value---food, tools, resources worth transporting from one place to another---they preferentially adopt bipedal posture. The more valuable the object, the more consistently they stand upright. A chimpanzee moving on four limbs will often transition to bipedalism the moment it picks up something worth carrying. The load is the trigger. The upright posture is the response.
 
-Read that twice. Let it settle.
+The load is the cause. The upright primate is the consequence.
 
 Bipedalism---the defining anatomical and behavioural feature of the entire hominin lineage, the adaptation that produced every downstream consequence of human evolution including tool use, language, endurance locomotion, and the peculiar skull-on-a-stick body plan you carry around every day---may have been selected in an ancestral population not because standing upright made them faster or more visible or better thermoregulated, but because it freed their hands to carry things.
 

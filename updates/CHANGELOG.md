@@ -9,6 +9,10 @@ All notable changes to *Born to Ruck* are documented here.
 - **Ch. 8 (Nasal Breathing):** Qualified nasal breathing + core stability synergy as strong mechanistic inference, not established EMG-validated fact
 - **References:** Fixed citation attribution — Calamai et al. (2024), not Eser et al., for VE/VCO₂ cardiac study
 
+### Stylistic Polish (from peer review)
+- **All chapters:** Eliminated repetitive AI crutch phrases ("Read that again," "This is not a metaphor," "Let that settle") — kept first occurrence, rewrote or removed subsequent instances
+- **Ch. 8:** Added beginner nasal breathing ramp — CO₂ tolerance is trainable, practical progression from rest → unloaded walks → light load before enforcing the gate
+
 ### Balance & Tone Edits
 - **Ch. 1:** Added acknowledgment that running/HIIT work for people who tolerate them — rucking is the better baseline, not the only answer
 - **Ch. 2:** Tempered "Cardio Industrial Complex" rhetoric — problem is structural incentives, not conspiracy; industry has produced genuine good
