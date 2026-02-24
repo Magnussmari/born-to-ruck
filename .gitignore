@@ -29,6 +29,9 @@ Thumbs.db
 # Internal plans
 MARKETING_PLAN.md
 
+# Icelandic translation (under manual review)
+is/
+
 # Editor files
 *.swp
 *.swo

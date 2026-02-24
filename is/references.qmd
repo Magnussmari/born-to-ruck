@@ -1,4 +1,0 @@
-# Heimildir {.unnumbered}
-
-::: {#refs}
-:::
