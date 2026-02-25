@@ -5,6 +5,18 @@ author: "Magnus Smari Smarason"
 date: "23 February 2026"
 ---
 
+::: {.callout-warning}
+## About This Book
+
+**Version 0.3 — February 2026 — Draft**
+
+This book is **AI-augmented and human-controlled**. Every chapter was researched, structured, and written using large language models (Claude, Anthropic) as a writing and research tool, with all editorial decisions, argument structure, and final text controlled by the human author. The AI assisted with literature synthesis, draft generation, and reference management. The author directed the inquiry, evaluated the evidence, and made every substantive judgment about what to include, how to frame it, and where the argument is strong or weak.
+
+**This book has not been peer-reviewed.** It is not a clinical guideline. It is not medical advice. It is one person's attempt to synthesise the available evidence on weighted walking into a coherent, honest, and practically useful document. The 65 references cited are real, peer-reviewed publications, but the synthesis and interpretation are the author's own. Where the evidence is indirect or extrapolated, this is stated explicitly --- particularly in Chapter 13, which discloses every significant evidence gap.
+
+Read critically. Verify claims that matter to you. Consult a physician before beginning any exercise programme if you have existing health conditions.
+:::
+
 ::: {.callout-note appearance="minimal"}
 **Open Source — MIT Licensed**
 
