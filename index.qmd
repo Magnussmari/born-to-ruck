@@ -13,6 +13,8 @@ This book is free. The source is on GitHub. If you find an error, want to improv
 [github.com/Magnussmari/born-to-ruck](https://github.com/Magnussmari/born-to-ruck)
 
 **Download the PDF:** [Latest release](https://github.com/Magnussmari/born-to-ruck/releases/latest)
+
+**Audio & AI Notebook:** [NotebookLM companion](https://notebooklm.google.com/notebook/03ed8637-cd1f-40b9-8490-cb74f0a7ef6b)
 :::
 
 # Prologue: The Weight You Were Meant to Carry {.unnumbered}
