@@ -43,3 +43,6 @@ presentation_women/
 .idea/
 
 /.quarto/
+
+# Dev notes
+dev/
