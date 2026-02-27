@@ -46,3 +46,6 @@ presentation_women/
 
 # Dev notes
 dev/
+
+# Quarto HTML libs
+site_libs/
