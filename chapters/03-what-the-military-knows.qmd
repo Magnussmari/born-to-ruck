@@ -148,6 +148,26 @@ What you are left with is a perfect storm of structural incentives arrayed again
 
 ---
 
+## What the Military Also Knows: The Injury Cost
+
+The preceding sections present the benefits the military has documented. An honest account requires presenting the costs the military has also documented---and those costs are substantial.
+
+Orr and colleagues, in a 2014 study published in the *Journal of Occupational Rehabilitation*, surveyed Australian Army soldiers and found that load carriage was among the most frequently cited causes of musculoskeletal injury [@orr2014]. In a subsequent 2016 study, thirty-four percent of soldiers reported injuries directly attributed to load carriage, with the lower back, knees, and ankles the most commonly affected sites [@orr2016]. A 2013 narrative review of the broader military injury literature confirmed that load carriage injuries are not occasional misfortunes but systematic consequences of the activity at operational loads and volumes [@orr2013].
+
+These are not trivial numbers. A thirty-four percent injury rate in a young, physically selected, professionally supervised population should give pause to anyone extrapolating military load carriage findings to unsupervised civilian ruckers---particularly older adults without the baseline conditioning, medical support, or progressive training infrastructure that military institutions provide.
+
+::: {.callout-warning}
+## The Ecological Fallacy
+
+The military populations studied in this literature are young (typically 20-31 years), physically pre-screened, predominantly male, and operating under professional medical supervision with structured progression protocols. Extrapolating their outcomes---whether benefits *or* injury rates---to a sedentary fifty-year-old beginning a rucking programme requires explicit caution. The carryover is plausible, not proven.
+:::
+
+The injury epidemiology also reveals a dose-response relationship that the civilian rucking community should take seriously. Military loads routinely exceed forty percent of body weight---often approaching sixty percent or more during extended operations. The loads recommended in this book (fifteen to thirty percent of body weight for experienced ruckers, five to ten percent for beginners) are substantially lower. Whether this dose reduction proportionally reduces injury risk has not been formally studied in civilian populations, but the biomechanical modelling (Xu 2016) suggests that the relationship between load and joint reaction forces is nonlinear and that the recreational loading range sits below the thresholds associated with the most serious military injuries.
+
+The military knows that loaded walking works. The military also knows that loaded walking hurts people when loads are too heavy, progression is too fast, or individual biomechanics are ignored. Both findings belong in the same chapter.
+
+---
+
 ## What the Science Actually Says
 
 Let us be precise about what the military load carriage literature establishes, and what it does not.
@@ -162,8 +182,23 @@ What it says, in aggregate, is this: human beings have an exercise modality spec
 
 And almost nobody told you.
 
-The gap between what the military knows and what the public practices is not a minor oversight in science communication. It is a structural failure with measurable consequences: eighty percent annual injury rates in recreational runners, epidemic osteoporosis in populations that were told to run on treadmills for cardio, testosterone suppression in men who thought they were getting fit, and a fitness industry that has made billions of dollars from the complexity it manufactures to obscure a simple, ancient, extraordinarily effective truth.
+The gap between what the military knows and what the public practices is not a minor oversight in science communication. It is a structural failure with measurable consequences---high injury rates in recreational runners, osteoporosis in populations given inadequate mechanical stimulus, hormonal disruption poorly understood by the clinicians diagnosing it---and a fitness industry that has profited from the complexity it manufactures to obscure a simpler, older, and in many respects more effective truth.
 
-Put weight on your back. Walk. Do it regularly. Do it for a long time.
+Put weight on your back. Walk. Do it regularly. Do it for a long time. Start lighter than your ego wants. Progress slower than your enthusiasm demands.
 
-The Army figured this out a century ago.
+The Army figured out the first part a century ago. The injury data taught it the second part. Both lessons belong to you.
+
+::: {.callout-note appearance="minimal"}
+## Evidence Confidence Summary
+
+| Claim | Evidence Type | GRADE | Key Reference | Gap or Caveat |
+|-------|--------------|-------|---------------|---------------|
+| Loaded walking produces distinct neuromuscular and gait adaptations | Systematic review | **Moderate** | Walsh & Low 2021 | Military populations only; civilian replication limited |
+| Load carriage conditions paraspinal musculature (+8% in 20 days) | Observational (pre-post) | **Low** | Qu 2020 | Single study, young military males, 30% BW load |
+| Military load carriers maintain high testosterone profiles | Cross-sectional observational | **Low** | Taylor 2016 | Survivorship bias; diverse training confounds; cannot isolate load carriage as causal |
+| Load carriage improves HRV (parasympathetic adaptation) | Observational (pre-post) | **Low** | Lowe 2025; Qu 2020 | Young military males only; no data in civilians over 40 |
+| Military load carriage causes 34% injury rate | Survey / observational | **Moderate** | Orr 2016; Orr 2014 | Military loads (>40% BW) far exceed recreational recommendation (15-25% BW) |
+| Military findings generalise to civilian rucking populations | Extrapolation | **Very Low** | No direct evidence | *Ecological fallacy risk:* young, selected, supervised military vs. unsupervised civilian adults |
+
+*GRADE: **High** = direct RCTs or large meta-analyses; **Moderate** = RCTs with limitations or strong replicated observational data; **Low** = observational, single study, or indirect evidence; **Very Low** = mechanistic reasoning, extrapolation, or expert opinion only.*
+:::

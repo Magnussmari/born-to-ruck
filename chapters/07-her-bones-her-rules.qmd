@@ -137,6 +137,8 @@ What does a female-specific rucking protocol actually look like in practice?
 
 The starting position is conservative by the standards of military load carriage—not because the female body is fragile, but because the patellofemoral joint needs time to adapt, the supporting musculature needs to be prepared before loads become substantial, and the evidence base for safe progression rates in women does not yet exist in the detail that a more aggressive protocol would require. Conservative is not a synonym for ineffective. It is a synonym for sustainable.
 
+A 2025 review by Gai and colleagues, examining the effects of weighted walking on gait stability in older adults, recommended that external loads remain below five percent of body weight for older populations---substantially less than the fifteen to thirty percent range that military-derived protocols suggest [@gai2025]. Their concern was gait instability and fall risk, not joint damage per se, but the recommendation underscores the gap between what young soldiers tolerate and what older civilians should attempt initially. This protocol begins conservatively for the same reason.
+
 Start with five percent of body weight for the first four weeks. This is not a training load; it is an adaptation stimulus and an orientation period. The body is learning how to carry again—how to activate the posterior chain under axial load, how to manage the slightly altered centre of mass, how the hip belt and shoulder straps interact with posture and gait. For a 65-kilogram woman, five percent of body weight is 3.25 kilograms. This is not impressive. It is exactly right.
 
 At week five, if the knees are symptom-free and the gait has stabilised—no excessive trunk lean, no pelvic drop, no knee valgus under load—the load increases to ten percent of body weight. This increase is held for four weeks. Patellofemoral joint adaptation proceeds at the cellular timescale, not the motivational timescale. The articular cartilage and subchondral bone are remodelling toward the new mechanical demand. This takes weeks, not days.
@@ -172,6 +174,21 @@ She was born to carry.
 The science, imperfect and incomplete and built mostly on data from young men she has never met, is finally beginning to see her clearly enough to serve her.
 
 Her bones, her rules.
+
+::: {.callout-note appearance="minimal"}
+## Evidence Confidence Summary
+
+| Claim | Evidence Type | GRADE | Key Reference | Gap or Caveat |
+|-------|--------------|-------|---------------|---------------|
+| Females exhibit greater patellofemoral joint stress during loaded walking | Controlled biomechanical study | **Moderate** | Willy 2025 | Single study, N=40 (20F/20M), young healthy adults; no data in women >40 |
+| Non-supervised exercise improves BMD in osteopenic/osteoporotic women | Meta-analysis | **High** | Sánchez-Trigo 2022 | SMD 0.73-0.85 at femoral neck; but "weight-bearing exercise" is broader than rucking |
+| Pelvic floor risk from rucking is low | Narrative scoping review | **Moderate** | Bø 2023 | Parity (vaginal births) is primary risk factor; IAP during walking comparable to standing from chair |
+| Conservative load progression (5% BW start) is optimal for women | Expert inference from biomechanics | **Very Low** | Gai 2025; Willy 2025 | No RCT of progressive rucking in women 40-70. Gai recommends <5% BW for all older adults |
+| Perimenopause is the critical window for mechanical loading | Observational (cross-sectional) | **Low** | Sipilä 2020 | N=1,393; physical activity-BMD association strongest in late perimenopause |
+| Rucking at 20-25% BW is safe for postmenopausal women | Extrapolation | **Very Low** | No direct evidence | *No published study* has tested rucking at these loads in women >50. Protocol is extrapolated from military data on young men |
+
+*GRADE: **High** = direct RCTs or large meta-analyses; **Moderate** = RCTs with limitations or strong replicated observational data; **Low** = observational, single study, or indirect evidence; **Very Low** = mechanistic reasoning, extrapolation, or expert opinion only.*
+:::
 
 ---
 

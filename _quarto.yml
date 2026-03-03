@@ -6,7 +6,8 @@ book:
   title: "Born to Ruck"
   subtitle: "The Science of Weighted Walking and the Exercise Your Body Was Built For"
   author: "Magnus Smari Smarason"
-  date: "2026-02-23"
+  date: "2026-03-03"
+  output-file: "Born-to-Ruck-v2.0"
   language: en
   chapters:
     - index.qmd
@@ -36,10 +37,12 @@ book:
     - chapters/epilogue.qmd
     - chapters/appendix-protocol.qmd
     - chapters/appendix-prompting.qmd
+    - chapters/appendix-honest-oracle.qmd
     - references.qmd
 
 bibliography: references.bib
 csl: apa.csl
+link-citations: true
 
 format:
   html:

@@ -194,6 +194,20 @@ For men, the testosterone-preserving effects of load carriage training---documen
 
 ---
 
+## The Longevity Evidence We Do Not Have
+
+Before the concluding section, an honest accounting of what the longevity argument rests on---and what it lacks.
+
+Running has a thirty percent all-cause mortality reduction documented in a prospective cohort of 55,137 adults followed for fifteen years (Lee 2014). Racquet sports show up to 5.7 additional years of life expectancy in observational data. Resistance training has a twenty-one percent mortality reduction (Saeidifard 2019). Rucking has *zero* mortality data. Not weak data, not small-sample data---none. The claim that rucking extends lifespan is an extrapolation from its component stimuli (cardiovascular training, resistance loading, bone preservation), each of which has independent mortality evidence. But the specific combination, at the specific loads and volumes this book recommends, has never been followed to mortality outcomes.
+
+The mental health argument is similarly proxied. Barton and Green, in a 2010 meta-analysis, found that "green exercise"---physical activity in natural environments---produces acute mood improvement with an effect size of d=0.54 [@barton2010]. Forest bathing and outdoor walking interventions show consistent anxiolytic and cortisol-reducing effects. But no study has examined the mental health effects of rucking specifically. The man on the trail who reports feeling calmer, more focused, and less anxious after a rucking session has his experience validated by the green exercise and autonomic literature---but not by direct rucking research.
+
+Running also produces a larger VO₂max stimulus per unit time than rucking at typical loads. This is a genuine cardiovascular advantage. For someone whose primary goal is maximising aerobic capacity, running (or high-intensity interval training) is the more efficient modality. Rucking's cardiovascular case rests on Zone 2 sufficiency---that the metabolic demand of loaded walking is sufficient for cardiovascular adaptation, not that it is superior for peak aerobic power.
+
+These gaps do not invalidate the decade-by-decade argument. They contextualise it. The protocol described in this chapter is grounded in biomechanical evidence, resistance training physiology, and bone biology. The longevity case is plausible inference. The mental health case is proxy evidence. Both should be held with the appropriate degree of confidence---not dismissed, but not overclaimed.
+
+---
+
 ## The Architecture of a Long Life
 
 The emotional truth of this chapter---the truth that underlies all of the numbers and all of the composite stories and all of the mechanistic explanations---is that the body is not a consumer product with a planned obsolescence date. It is a structure that responds to how it is treated across time, and that responds in ways that are more predictable, more modifiable, and more consequential than the culture of acute fitness interventions has ever been organized to communicate.

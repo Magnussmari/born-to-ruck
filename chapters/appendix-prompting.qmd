@@ -162,9 +162,9 @@ These prompts generate starting points, not medical advice. The distinction matt
 
 ## A Note on Which AI to Use
 
-As of this writing, Claude (Anthropic), Gemini (Google), and ChatGPT (OpenAI) are all capable of useful responses to these prompts. They differ in reasoning style and verbosity but not substantially in protocol-level accuracy for this kind of structured input.
+As of March 2026, **Claude Sonnet 4.6** (Anthropic), **Gemini 2.5** (Google), and **ChatGPT with GPT-5.2** (OpenAI) are all capable of useful responses to these prompts. All three offer free access. Claude tends to follow the structured fill-in-the-blank format most faithfully. Gemini 2.5 Flash handles long context well and integrates with Google accounts. ChatGPT's GPT-5.2 has the largest user community, which makes finding help straightforward.
 
-Use whichever you have access to. If one response seems generic or evasive, try the same prompt in another model. Some models are more conservative by default; push back if you need more specificity.
+The models are converging. The gap in protocol-level accuracy between them is now small. Use whichever you have access to. If one response seems generic or evasive, try the same prompt in another model — some are more conservative by default. Push back and ask for more specificity if needed.
 
 The prompts in this appendix were developed and tested during the writing of this book. They work.
 

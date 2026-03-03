@@ -4,9 +4,9 @@ Patrick McKeown got there first. His 2015 book *The Oxygen Advantage* laid the t
 
 McKeown built the engine. Nestor opened the door.
 
-This chapter walks through it. With data.
+This chapter walks through it. With data---and with a disclosure that the earlier version of this chapter did not make clearly enough: *no published study has examined nasal breathing during loaded walking.* The Akureyri Protocol's nasal breathing component is the most evidence-free element of this entire book. The mechanistic reasoning is sound. The practical experience is extensive. The direct experimental evidence is zero.
 
-The data changes the conversation in a specific way. It strips away the mystical overlay---the breathwork gurus, the ancient wisdom appeals, the oxygen-deprivation theatre---and reveals something more useful and considerably more interesting: nasal breathing during submaximal exercise is a measurable physiological intervention. It has quantifiable effects on ventilatory efficiency, blood lactate accumulation, autonomic tone, pulmonary vascular resistance, and diastolic blood pressure. Those effects have been documented in peer-reviewed literature by research groups working independently across multiple countries and multiple years. The signal is not perfect---this chapter will tell you exactly where it becomes ambiguous---but the core of it is robust enough to change how you train.
+The data that does exist changes the conversation in a specific way. It strips away the mystical overlay---the breathwork gurus, the ancient wisdom appeals, the oxygen-deprivation theatre---and reveals something more useful and considerably more interesting: nasal breathing during submaximal exercise is a measurable physiological intervention. It has quantifiable effects on ventilatory efficiency, blood lactate accumulation, autonomic tone, pulmonary vascular resistance, and diastolic blood pressure. Those effects have been documented in peer-reviewed literature by research groups working independently across multiple countries and multiple years. The signal is not perfect---this chapter will tell you exactly where it becomes ambiguous---but the core of it is robust enough to change how you train.
 
 And the simplest practical application requires no equipment, no subscription, no coach, and no technology. If you cannot breathe through your nose during exercise, you are training too hard. That is the whole thing. The most reliable intensity regulator ever discovered is mounted in the centre of your face.
 
@@ -26,9 +26,36 @@ I began testing the threshold deliberately. I would push the pace until the nasa
 
 This observation is not original. George Dallam, a triathlon coach and researcher at Colorado State University, has been investigating nasal-only training in endurance athletes for nearly two decades and arrived at the same practical conclusion: nasal breathing is a self-regulating intensity constraint whose physiological effects are most pronounced at the submaximal intensities that constitute most effective aerobic training. What I was doing on the Akureyri hillside was reinventing a wheel that Dallam had already built and studied rigorously. But reinventing a wheel in the field, in the dark, in a fjord wind, with a pack on your back, is its own kind of education.
 
-The Akureyri Protocol, as it eventually became codified in my own training practice and the programmes I designed for others, has a single non-negotiable rule and several derived practices. The rule is this: during rucking sessions, the mouth stays closed. The derived practices concern warm-up duration, session structure, grade management, and the specific signals that indicate when to slow down. But they are all downstream of the rule. The mouth stays closed.
+The Akureyri Protocol, as it eventually became codified in my own training practice and the programmes I designed for others, has a single foundational rule and several derived practices. The rule is this: during rucking sessions, the mouth stays closed---for those whose nasal anatomy permits it, and at intensities where nasal ventilation is sufficient. The derived practices concern warm-up duration, session structure, grade management, and the specific signals that indicate when to slow down. But they are all downstream of the rule. The mouth stays closed.
 
-The reasons for the rule are what this chapter is about.
+The reasons for the rule are what this chapter is about. But so are the rule's limitations---and those limitations are more substantial than the earlier version of this chapter acknowledged.
+
+## The Ventilatory Ceiling: What Nasal Breathing Costs
+
+Before presenting the benefits of nasal breathing, intellectual honesty requires stating what it costs.
+
+Mapelli and colleagues, in a 2025 study published in *PLOS ONE*, conducted the BreathWISE trial comparing nasal-only versus oronasal breathing during cardiopulmonary exercise testing [@mapelli2025]. The finding was unambiguous: nasal breathing significantly reduced peak VO₂ by approximately 8 to 22 percent and peak ventilation by approximately 35 percent compared to oronasal breathing. The nasal airway imposes a physical ceiling on ventilatory capacity. At moderate intensities---Zone 2, the training zone this protocol recommends---that ceiling is not a limitation. It is, in fact, the mechanism: the ceiling *is* the intensity governor. But at higher intensities, nasal breathing is not "functionally equivalent" to oral breathing. It is objectively limiting.
+
+Lee, Seo, and Lee, in a 2025 study of progressive treadmill exercise, confirmed that nasal breathing becomes unsustainable above approximately 11 km/h, coinciding with the ventilatory threshold [@lee2025]. Above this point, the nasal airway cannot deliver sufficient gas exchange, and the body switches to oral breathing involuntarily.
+
+This limitation is exactly why the protocol works as a Zone 2 governor---but it must be stated plainly rather than minimised. Nasal breathing is not "superior across all intensities." It is a useful constraint at moderate intensity and a genuine performance limiter at high intensity. For rucking, which operates in the moderate-intensity zone, this limitation is not relevant. For anyone who wants to maintain a high-intensity training component alongside rucking, nasal breathing is not appropriate for that component.
+
+## When NOT to Breathe Through Your Nose
+
+Nasal breathing is not appropriate for everyone, and the protocol's "non-negotiable" framing requires qualification. The following conditions warrant oral or oronasal breathing during exercise:
+
+1. **Significant deviated septum** --- affects 22 to 80 percent of the population depending on diagnostic criteria. If one nostril is substantially obstructed, nasal breathing under exertion may be impossible regardless of CO₂ tolerance training.
+2. **Nasal polyps or chronic rhinosinusitis** --- obstructive pathology that no amount of training can overcome.
+3. **Severe allergic rhinitis during active episodes** --- seasonal or perennial. The protocol pauses; it does not power through.
+4. **Exercise-induced bronchoconstriction** --- nasal breathing may help (warmer, more humid air), but if it worsens symptoms, it is contraindicated.
+5. **Extreme cold (below -10°C)** --- ice crystal formation in nasal passages. A thin buff helps but does not fully resolve the problem. Below -15°C, nasal-only breathing during exertion is inadvisable.
+6. **Panic or anxiety disorders triggered by air hunger** --- the CO₂ build-up that nasal breathing produces can trigger panic in susceptible individuals. This is not a CO₂ tolerance deficit; it is a clinical condition.
+7. **Active upper respiratory infection** --- the protocol pauses.
+8. **Any situation where ventilatory demand genuinely exceeds nasal capacity** --- steep terrain, sprint intervals, emergency situations. Opening the mouth is always the correct response to genuine air hunger.
+
+The earlier version of this chapter presented nasal breathing as universally achievable with sufficient training. For the estimated 33 to 57 percent of the population with some degree of nasal obstruction, this was misleading. If you cannot breathe through your nose comfortably at rest, the first step is not CO₂ tolerance training---it is an ENT evaluation.
+
+---
 
 A note for anyone reading this on day one of rucking, or day one of any serious training: if nasal breathing under load feels impossible right now, that is not a sign you are doing something wrong. It is a sign that CO₂ tolerance is a trainable variable, and yours has not yet been trained. The body's hypercapnic drive---the reflex that demands you open your mouth and ventilate harder when CO₂ rises---is calibrated by exposure. Consistent nasal-only breathing recalibrates it within two to four weeks of regular practice, as the chemoreceptors adjust to the slightly elevated PETCO₂ that nasal resistance produces and stop interpreting it as an emergency. You will get there. The nose adapts. The practical ramp is this: begin with nasal breathing at rest, only, for several days; then during unloaded walks; then with light load, roughly five percent of body weight; then with moderate load. When you can complete a full session at ten percent of body weight without breaking nasal breathing, you are ready to begin progressive load increases under the protocol. If nasal breathing is mechanically obstructed rather than merely undertrained---a deviated septum, chronic allergic congestion, polyps, or structural narrowing from previous injury---no amount of CO₂ tolerance training will resolve the underlying anatomy. That warrants assessment by an ear, nose, and throat specialist before you treat nasal breathing as a training variable. The protocol assumes functional nasal passages. If yours are not functional, address that first.
 
@@ -333,4 +360,21 @@ Layer 1 is the default. Layer 2 activates when Layer 1 fails. Layers 3--4 confir
 **Humming Warm-Up:** 1--2 minutes of nasal humming before sessions. Increases sinus NO output ~15-fold (but note: NO production drops 47--76% during heavy exercise---the benefit is primarily at easy-to-moderate intensities).
 
 **The Gate:** Only increase load or pace when you can complete the full session without breaking nasal breathing. Beginners: reach the gate by progressing through rest, then unloaded walks, then light load (~5% BW), then 10% BW before adding more. CO₂ tolerance improves within 2--4 weeks. You will reach the gate. Move through it when you do.
+:::
+
+::: {.callout-note appearance="minimal"}
+## Evidence Confidence Summary
+
+| Claim | Evidence Type | GRADE | Key Reference | Gap or Caveat |
+|-------|--------------|-------|---------------|---------------|
+| Paranasal sinuses produce high concentrations of NO | Replicated experimental | **High** | Lundberg 1994; Weitzberg 2002 | Well-established; mode-independent |
+| Nasal breathing reduces pulmonary vascular resistance | Controlled experimental | **Moderate** | Settergren 1998; Sánchez-Crespo 2010 | Demonstrated at rest and exercise; not tested during loaded walking |
+| Nasal breathing improves ventilatory efficiency in cardiac patients | RCT (crossover) | **Moderate** | Eser 2024 | Cycle ergometer in heart failure patients; VE/VCO₂ slope improvement matched months of HIIT |
+| Nasal breathing reduces peak VO₂ by 8-22% | RCT (crossover) | **Moderate** | Mapelli 2025 | This is a *cost*, not just a benefit. Limits high-intensity capacity. |
+| Nasal breathing as Zone 2 intensity governor | Mechanistic inference + practical observation | **Low** | Dallam 2018; Akureyri Protocol | Plausible and practically robust; no formal validation during loaded walking |
+| Nasal breathing during loaded walking improves outcomes | Extrapolation | **Very Low** | No direct evidence | *The Akureyri Protocol's most evidence-free component.* Zero published studies of nasal breathing during rucking |
+| Talk test validates ventilatory threshold during rucking | Extrapolation | **Very Low** | Kwon 2023; Sorensen 2020 | Talk test validated in unloaded exercise; thoracic load alters ventilatory mechanics (Shei 2017). Zero validation during loaded walking |
+| 33-57% of population has nasal obstruction | Epidemiological surveys | **Moderate** | Multiple ENT sources | Deviated septum prevalence 22-80% depending on criteria. Not all obstructions prevent nasal breathing during exercise |
+
+*GRADE: **High** = direct RCTs or large meta-analyses; **Moderate** = RCTs with limitations or strong replicated observational data; **Low** = observational, single study, or indirect evidence; **Very Low** = mechanistic reasoning, extrapolation, or expert opinion only.*
 :::

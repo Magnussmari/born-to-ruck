@@ -48,7 +48,7 @@ That gap is precisely where the osteogenic threshold sits.
 
 The exact number varies somewhat in the literature—bone biology is not physics, and individual variation is substantial—but the preponderance of evidence places the threshold for meaningful osteogenic stimulation somewhere around 1.4 to 1.7 times body weight in the axial skeleton, depending on loading rate and repetition. Below that, the mechanical signal is insufficient to tip the osteoblast-osteoclast balance toward net formation. Unloaded walking at 5 kilometres per hour, pleasant as it is for cardiovascular health and mental clarity, generally does not reach this threshold. It produces bone maintenance at best—and in people with already-compromised bone density, not even that.
 
-Running, at its lower end, crosses the threshold. But running also crosses something else: the injury boundary. Ground reaction forces of 2.0 to 2.9 times body weight, combined with the impact transient and the repetitive nature of running gait, produce injury rates in recreational runners that approach 80 percent annually for any given training cycle. Stress fractures. Tibial stress reactions. Patellofemoral pain syndrome. Plantar fasciitis. Iliotibial band syndrome. These are not incidental to running—they are its mechanical signature, the predictable consequence of repeatedly loading a biological structure near or above its damage threshold.
+Running, at its lower end, crosses the threshold. But running also crosses something else: the injury boundary. Ground reaction forces of 2.0 to 2.9 times body weight, combined with the impact transient and the repetitive nature of running gait, produce substantial injury rates in recreational runners---estimates range from 37 to 56 percent annually depending on how broadly injury is defined and which populations are surveyed. Stress fractures. Tibial stress reactions. Patellofemoral pain syndrome. Plantar fasciitis. Iliotibial band syndrome. These are the characteristic injuries of running gait, the predictable consequence of repeatedly loading a biological structure at or near its damage threshold. (It should be noted, as Chapter One discusses, that recreational running at moderate volumes is also *chondroprotective*---runners have lower rates of knee osteoarthritis than sedentary controls. The injury question and the joint-health question are not the same question.)
 
 There is, embedded in the Nilsson and Thorstensson data and confirmed by subsequent modeling work, a solution to this problem. It is not complicated. It is, in retrospect, obvious.
 
@@ -117,6 +117,18 @@ It is worth being specific about what these effect sizes mean in practice, becau
 The direct evidence for weighted walking specifically—as opposed to weight-bearing exercise in its various forms—is anchored by a landmark study from Christine Snow and colleagues published in 2000 in the *Journal of Gerontology*. Snow's team followed postmenopausal women over five years, comparing a group who performed a weighted vest and jumping program three times per week with a control group who did not. At the end of five years, the exercise group had maintained femoral neck bone mineral density. The control group had lost bone. Not a dramatic loss, but a statistically significant, clinically meaningful one—the kind of cumulative loss that, compounded over a decade, becomes the structural deficit that precedes a fracture.
 
 The Snow study used jumping in addition to the weighted vest, which introduces a force component above what walking with a loaded pack produces. But the underlying principle is identical: external load applied to a walking and standing skeleton, creating mechanical strain above the remodeling threshold, at sufficient frequency and duration to sustain osteoblast activity. The study also demonstrated something that is easy to overlook in the enthusiasm for acute exercise effects: five years of sustained mechanical loading preserved bone that would otherwise have been lost. The intervention was not about growing dramatically denser bones. It was about not losing the bones you have.
+
+### The Beavers Negative
+
+In 2025, Beavers and colleagues published a result in *JAMA Network Open* that anyone citing weighted loading for bone health is obligated to address honestly [@beavers2025].
+
+The study was a twelve-month randomised controlled trial of 150 older adults (mean age approximately 67 years) with obesity undergoing intentional weight loss. The intervention group wore weighted vests during daily activities. The primary outcome was bone mineral density at the hip and spine. The result: the weighted vest *did not* prevent bone loss during weight loss. The intervention group lost bone at essentially the same rate as the control group.
+
+This is the largest and most rigorous RCT of weighted loading for bone preservation in older adults. It directly contradicts the expectation that external load, by itself, protects bone.
+
+Context matters. The Beavers participants were wearing vests passively during daily activities---standing, walking around the house, doing errands---not performing structured rucking sessions at Zone 2 intensity for forty-five to sixty minutes. The concurrent intentional weight loss created a caloric deficit that may have overridden any osteogenic signal from the vest. And passive vest wearing produces a static load increase without the dynamic, cyclical loading pattern that walking gait generates at each step---the very pattern that Wolff's Law and the mechanotransduction literature identify as the key stimulus.
+
+These caveats are real, but they should not be used to dismiss the finding. The Beavers study establishes that simply adding weight to the body is not sufficient to protect bone. The *activity performed while carrying the weight*---its intensity, duration, and biomechanical characteristics---appears to matter as much as or more than the weight itself. This is consistent with the mechanobiology: osteocytes respond to dynamic strain and fluid flow, not static compression. A vest worn while sitting at a desk delivers static load. A pack carried during a brisk walk delivers rhythmic, dynamic loading at every step. Whether this distinction is sufficient to produce meaningfully different bone outcomes remains a hypothesis, not a demonstrated fact.
 
 Every decade you fail to protect bone mineral density is a decade you cannot recover. This is not pessimism. It is physiology.
 
@@ -191,3 +203,18 @@ The message is simple. The mechanism is ancient. Bone has been responding to mec
 The pack is the signal. The walk is the language. The skeleton is listening.
 
 But it will not wait indefinitely for you to start speaking.
+
+::: {.callout-note appearance="minimal"}
+## Evidence Confidence Summary
+
+| Claim | Evidence Type | GRADE | Key Reference | Gap or Caveat |
+|-------|--------------|-------|---------------|---------------|
+| Loaded walking produces GRF in the osteogenic range (1.4-1.7× BW) | Biomechanical measurement | **High** | Nilsson & Thorstensson 1989 | Direct measurement; well-replicated |
+| GRF in the osteogenic range produces bone formation | Mechanistic (Wolff's Law) + observational | **Moderate** | Multiple; Wolff 1892; astronaut studies | Wolff's Law well-established; specific dose-response in loaded walking less precise |
+| Weighted vest + jumping preserves femoral neck BMD in postmenopausal women | RCT (5-year) | **Moderate** | Snow 2000 | Jumping component confounds the vest-alone effect |
+| Weighted vest alone prevents bone loss in older adults | RCT (12-month) | **Moderate** | Beavers 2025 | *NEGATIVE FINDING:* Weighted vest during daily activities did NOT prevent bone loss during weight loss (N=150, JAMA Network Open) |
+| Rucking specifically builds bone in civilians | Extrapolation | **Very Low** | No direct evidence | *Full chain untested:* GRF measurement → osteogenic threshold → bone density change specifically from rucking has never been studied as a single causal chain |
+| Non-supervised weight-bearing exercise improves BMD in women with osteopenia | Meta-analysis | **High** | Sánchez-Trigo 2022 | SMD 0.73-0.85; but "weight-bearing exercise" is broader than rucking alone |
+
+*GRADE: **High** = direct RCTs or large meta-analyses; **Moderate** = RCTs with limitations or strong replicated observational data; **Low** = observational, single study, or indirect evidence; **Very Low** = mechanistic reasoning, extrapolation, or expert opinion only.*
+:::

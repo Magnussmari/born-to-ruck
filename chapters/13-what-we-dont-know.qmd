@@ -104,9 +104,62 @@ The absence of this evidence is particularly consequential because the cardiovas
 
 ---
 
+## What the Running Evidence Actually Shows
+
+The adversarial review that led to the revisions throughout this book identified a systematic pattern in the original manuscript: running was treated as a foil rather than a genuine alternative with its own substantial evidence base. That framing was dishonest by omission. Here is what the running evidence actually shows.
+
+Lee and colleagues, in a 2014 prospective cohort study of 55,137 adults followed for fifteen years, found that runners had a thirty percent lower risk of all-cause mortality and a forty-five percent lower risk of cardiovascular mortality than non-runners---benefits that persisted even at modest volumes of five to ten minutes per day [@lee2014]. This is the strongest mortality evidence for any single exercise modality. Rucking has zero mortality data.
+
+Alentorn-Geli and colleagues, in a 2017 meta-analysis of 125,810 individuals, found that recreational runners had an osteoarthritis prevalence of 3.5 percent compared to 10.2 percent in sedentary controls and 13.3 percent in competitive runners [@alentorngeli2017]. Recreational running is *chondroprotective*---it protects joints, not destroys them. Timmins and colleagues found runners approximately fifty percent less likely to need knee replacement surgery [@timmins2017]. Lo and colleagues, using longitudinal OAI data, found no association between running history and symptomatic knee osteoarthritis [@lo2017], and that running did not increase symptoms or structural progression in people who already had knee OA [@lo2018].
+
+The earlier version of this book implied that running at any substantial volume was destroying joints and suppressing hormones. The joint claim is contradicted by large-scale epidemiological evidence. The hormonal claim is real but applies to volumes (>81 km/week) that most recreational runners never reach. The case for rucking does not require running to be worse than the evidence says it is. It requires rucking to offer something running does not: lower impact forces, simultaneous resistance and cardiovascular stimulus, posterior chain loading, and accessibility to populations for whom running is impractical or contraindicated. Those are genuine advantages. They do not need the straw man of a "running lie" to support them.
+
+---
+
+## The Beavers Negative
+
+In 2025, Beavers and colleagues published a twelve-month randomised controlled trial in *JAMA Network Open* that deserves its own section in this chapter because it is the most rigorous direct test of a core mechanism this book relies on [@beavers2025].
+
+One hundred and fifty older adults with obesity were randomised to a weighted vest intervention during intentional weight loss or to a control group. The weighted vest was worn during daily activities. The primary outcome was bone mineral density at the hip and spine. The result: the weighted vest did not prevent bone loss. The intervention group lost bone at the same rate as the control group.
+
+This finding does not refute rucking specifically---the Beavers intervention involved passive vest wearing during daily activities, not structured walking sessions with dynamic cyclical loading---but it establishes that simply adding external weight to the body is insufficient to protect bone. The *activity performed while carrying the weight* is what matters. Chapter Four discussed this distinction in detail: osteocytes respond to dynamic strain and fluid flow, not static compression.
+
+The Beavers study also coincided with intentional caloric deficit, which may have overridden the osteogenic signal through the RED-S mechanism discussed in Chapter Seven. But the honest reading is that weighted loading's bone-protective effect, when it exists, depends on specific biomechanical conditions---dynamic gait loading, adequate energy availability, sufficient load magnitude---that have not been tested in combination in a rucking-specific RCT.
+
+---
+
+## The GRADE Scorecard
+
+This is the single most important table in the book. It summarises the evidence quality for every major claim, using the GRADE framework that Chapter One introduced.
+
+::: {.callout-note appearance="minimal"}
+## Whole-Book Evidence Scorecard
+
+| Core Claim | Best Evidence | GRADE | Status |
+|------------|--------------|-------|--------|
+| Running (>81 km/week) chronically suppresses testosterone | Replicated observational | **Moderate** | Supported at high volumes; not supported at recreational volumes |
+| Loaded walking produces distinct biomechanical adaptations | Systematic review (military) | **Moderate** | Supported in military populations; civilian replication limited |
+| Rucking at 15-25% BW produces osteogenic GRF | Biomechanical measurement | **High** | GRF measured directly; bone density response to rucking specifically: untested |
+| Weighted vest preserves bone in older adults | RCT (JAMA Network Open) | **Moderate** | **NEGATIVE FINDING** (Beavers 2025). Passive vest wearing did not prevent bone loss |
+| Non-supervised exercise improves BMD in osteopenic women | Meta-analysis | **High** | Supported (Sánchez-Trigo 2022, SMD 0.73-0.85). Broader than rucking alone |
+| Rucking elevates testosterone at recreational loads | Mechanistic inference | **Very Low** | *Zero direct evidence.* Extrapolated from strongman (5-10× heavier) and military (diverse training) |
+| Nasal breathing improves ventilatory efficiency | RCTs in cycling/clinical populations | **Moderate** | Supported in non-rucking contexts. Zero data during loaded walking |
+| Rucking protects intervertebral discs | Mechanistic inference | **Very Low** | No imaging studies. Plausible from disc physiology; unconfirmed |
+| Rucking reduces all-cause mortality | No evidence | **Not ratable** | *Zero mortality data for rucking.* Running: 30% reduction (Lee 2014, N=55,137) |
+| Recreational running destroys knee cartilage | Contradicted by evidence | **CORRECTED** | *Recreational runners have 3.5% OA vs 10.2% sedentary* (Alentorn-Geli 2017, N=125,810) |
+
+*GRADE: **High** = direct RCTs or large meta-analyses; **Moderate** = RCTs with limitations or strong replicated observational data; **Low** = observational, single study, or indirect evidence; **Very Low** = mechanistic reasoning, extrapolation, or expert opinion only.*
+:::
+
+The pattern is clear. The book's strongest claims---biomechanical GRF measurements, Wolff's Law mechanisms, the Sánchez-Trigo meta-analysis for bone density---rest on genuine evidence. The book's most distinctive claims---rucking's hormonal advantage, nasal breathing under load, disc health---rest on mechanistic inference that has not been directly tested. And one of the book's original claims---that running destroys joints---was contradicted by large-scale epidemiological evidence and has been corrected throughout these pages.
+
+The honest position is that rucking is a *plausible, mechanistically grounded, practically useful* exercise modality whose specific claims range from well-supported to entirely untested. The protocol recommended in this book is conservative precisely because the evidence is weaker than the confidence of the prose might suggest. The conservatism is not legal caution. It is the appropriate response to operating at the frontier of inference.
+
+---
+
 ## What Indirect Evidence Actually Means
 
-The preceding sections document seven gaps. A critic of this protocol could read them and conclude that the scientific foundation is insufficient---that you should not start a rucking practice, or trust the hormonal argument, or follow the nasal breathing instruction, until every gap has been filled. That conclusion would be both logically wrong and practically harmful.
+The preceding sections document seven gaps---plus three corrections that the adversarial review process identified. A critic of this protocol could read them and conclude that the scientific foundation is insufficient---that you should not start a rucking practice, or trust the hormonal argument, or follow the nasal breathing instruction, until every gap has been filled. That conclusion would be both logically wrong and practically harmful.
 
 Evidence-based medicine has never been evidence-complete medicine. Every clinical decision made in the absence of a perfect randomized controlled trial---and the overwhelming majority of clinical decisions are made in exactly that absence---relies on convergent indirect inference, mechanistic coherence, population extrapolation, and the accumulated judgment of practitioners who have observed more than the trials have yet quantified. The question is not whether uncertainty exists. Uncertainty always exists. The question is whether the inference is reasonable given the evidence that does exist, and whether it is honestly presented.
 
@@ -133,6 +186,8 @@ The women forty-to-seventy gap requires biomechanical studies that nobody has pr
 The nasal breathing during rucking gap requires a simple crossover protocol: the same session, nasal-only versus oronasal breathing, measuring RER, PETCO2, blood lactate, HRV, and if possible IAP through intravesical pressure or ultrasound-measured diaphragmatic excursion, during sixty minutes of loaded walking at a standardized speed and load. This is a graduate-level exercise physiology project. It would resolve, in a single well-designed study, the most directly testable uncertainty in this entire protocol.
 
 The older men cardiovascular gap requires what the cardiovascular rehabilitation community already knows how to do---twelve to twenty-four week exercise interventions with pre-post VO2max, pulse wave velocity, and echocardiographic assessment---but applied to loaded walking rather than cycle ergometry or treadmill running.
+
+The most important study that does not exist, and the one that would most fundamentally validate or invalidate this book's central thesis, is a prospective cohort study of recreational ruckers with all-cause mortality as the primary outcome. Running has this data (Lee 2014, N=55,137). Resistance training has this data (Saeidifard 2019, meta-analysis). Rucking does not. Until it does, the claim that rucking is "the most complete single modality" remains a mechanistic argument, not an epidemiological one. A registry-based cohort study---recruiting regular ruckers, matching them with non-rucking controls, and following both groups for ten to fifteen years---would be transformative. It is also the study that is least likely to be funded, because the commercial interests that fund exercise research have no revenue model for an activity that requires no equipment subscription.
 
 These studies need to be done. The people who will do them are reading exercise physiology journals and supervising graduate students at universities where the equipment exists and the expertise is available. If this book reaches any of them: here is your research agenda.
 

@@ -47,5 +47,8 @@ presentation_women/
 # Dev notes
 dev/
 
+# Case study working files (internal, not for publication)
+case_study/
+
 # Quarto HTML libs
 site_libs/

@@ -54,7 +54,13 @@ I prepared the ground before the agents ran. I conducted the literature reviews,
 
 I came home to a book.
 
+::: {.callout-note appearance="minimal"}
+**AI Tools Disclosure (ICMJE-compliant).** This manuscript was researched and written using the following AI tools: Claude (Anthropic, models claude-3.5-sonnet through claude-opus-4-6) via Claude Code CLI running on the PAI (Personal AI) infrastructure; Google Gemini (3.0 Flash through 3.1 Pro); Perplexity AI; and scite.ai for citation verification. The author prepared all research prompts, defined chapter scope and voice, reviewed all output, and made all editorial decisions. AI tools performed literature retrieval, synthesis drafting, citation verification, and adversarial bias auditing. No AI system is listed as an author. Full methodology is documented in Appendix B (prompts) and Appendix C (bias audit).
+:::
+
 **This manuscript is not peer-reviewed.** It is an open-source experiment using cutting-edge AI tools applied to a body of peer-reviewed research. The AI did not generate the science---the science was already there, published by researchers working independently across evolutionary anthropology, exercise physiology, biomechanics, endocrinology, and respiratory medicine. What the AI did was read it, synthesise it, and write about it at a level of integration that would have taken a human author months or years. Every claim is referenced. Every evidence gap is disclosed. Where the data is strong, the language is confident. Where the data is indirect, the inferential basis is stated.
+
+**This book is not bias-free. It is bias-audited, bias-corrected, and bias-documented.** After the original manuscript was completed, the same AI infrastructure was redirected adversarially to find confirmation bias in every research prompt that had generated the chapters. It found bias in all twelve. Counter-evidence was produced by eleven parallel research agents in twenty-five minutes, and the manuscript was revised to integrate it honestly. The full account of what was found and what changed is in Appendix C: The Honest Oracle. If you read one appendix, read that one.
 
 I read the result. I liked it. I hope you do too.
 
