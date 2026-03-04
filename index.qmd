@@ -26,9 +26,7 @@ This book is free. The source is on GitHub. If you find an error, want to improv
 
 **Download the PDF:** [Latest release](https://github.com/Magnussmari/born-to-ruck/releases/latest)
 
-**Audio & AI Notebook:** [NotebookLM companion](https://notebooklm.google.com/notebook/03ed8637-cd1f-40b9-8490-cb74f0a7ef6b)
-
-**Hljóð- og gervigreindarstúdía (íslenska):** [NotebookLM á íslensku](https://notebooklm.google.com/notebook/ed0fdf90-ce80-42b6-b357-fa40eb6feadc)
+**AI Notebook:** This book is in active development. To create your own interactive AI notebook, upload the PDF to [Google NotebookLM](https://notebooklm.google.com) — supplementary materials will be published once the text stabilises.
 :::
 
 # Prologue: The Weight You Were Meant to Carry {.unnumbered}
