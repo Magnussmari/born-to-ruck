@@ -4,7 +4,7 @@
 
 *Magnus Smári Smarason — Akureyri, Iceland*
 
-**v2.0 — March 2026 — Evidence Integration Edition**
+**v2.1 — March 2026 — Evidence Integration Edition**
 
 ---
 
@@ -24,6 +24,7 @@ An adversarial "honest oracle" review found confirmation bias in all 12 original
 - **GRADE evidence tables** in every evidence-heavy chapter
 - **Counter-evidence presented first** — chondroprotective running data, Beavers 2025 negative RCT, EHMC scope correction, military injury epidemiology, nasal breathing limitations
 - **New Appendix C: "The Honest Oracle"** — full bias audit trail and self-correction methodology
+- **New Appendix D: "The Parallel Research Sprint"** — how 11 parallel AI agents produced ~5,000 lines of counter-evidence in 25 minutes
 
 See [CHANGELOG](updates/CHANGELOG.md) for complete details.
 
@@ -70,7 +71,8 @@ quarto render --to epub
 │   ├── epilogue.qmd
 │   ├── appendix-protocol.qmd           # Appendix A: The Akureyri Protocol
 │   ├── appendix-prompting.qmd          # Appendix B: Prompting Your Protocol
-│   └── appendix-honest-oracle.qmd      # Appendix C: The Honest Oracle
+│   ├── appendix-honest-oracle.qmd      # Appendix C: The Honest Oracle
+│   └── appendix-research-sprint.qmd    # Appendix D: The Parallel Research Sprint
 ├── references.bib                       # 79 references, all DOIs verified
 ├── updates/CHANGELOG.md                 # Version history
 ├── _quarto.yml                          # Book configuration
